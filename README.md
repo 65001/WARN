@@ -81,3 +81,20 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | [West Virginia](https://workforcewv.org/public-information/warn-notices/current-warn-notices) | | PDF |
 | [Wisconsin](https://dwd.wisconsin.gov/dislocatedworker/warn/) | | American Job Center. Scraper|
 | Wyoming | | Not Found |
+
+
+## Working JSON Schema Draft
+* Name and address (`street_address`, `municipality`) of the employment site where the plant closing or layoff will occur
+* Name (`official_name`) and telephone number (`official_phone`) of a company official to contact for further information
+* `type` - Statemenet as to whether the planned action is expected to be temporary `layoff`, and, if the entire plant is to be closed `closure`
+* `layoff_date` - The expected date for the first seperation
+* `warn_date` - The data of reciept of notice.
+* `first_seen` - The date this tool first saw this notice.
+* The anticipated schedule for making seperations
+* The job tiles of positions to be affected, and the 
+* `count` - number of affected employees in each job classification
+* Bumping rights `bumping` 
+* Union and the name `union.name` and address `union.address` of each union
+* `note` - Notes
+* `link` - Link to notice
+* `state` - State

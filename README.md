@@ -23,9 +23,9 @@ The law became effective on February 4, 1989, so jurisdictions should have data 
 
 The below is a list of publicly available WARN Act Notices by jurisdiciton gotten in part by information provided by the [United States of America's Department of Labor here](https://www.dol.gov/agencies/eta/layoffs/contact). 
 
-| State  | Link  | Notes  |
-|---|---|---|
-| [Alabama](https://www.madeinalabama.com/warn-list/) | | Requires a web scraper. 1998 data seems to be bad. |
+| State  | Link  | Notes  | Dates | Manual work |
+|---|---|---|---|---|
+| [Alabama](https://www.madeinalabama.com/warn-list/) | | Working as of 2023-03-12. | 1999-2023 | Remove garbage entries for 1998 |
 | [Alaska](https://jobs.alaska.gov/rr/WARN_notices.htm) | |  Requires a web scraper. |
 | American Samoa | |  Not Listed |
 | [Arizona](https://www.azjobconnection.gov/search/warn_lookups/new) | | American Jobs Center |
@@ -81,3 +81,20 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | [West Virginia](https://workforcewv.org/public-information/warn-notices/current-warn-notices) | | PDF |
 | [Wisconsin](https://dwd.wisconsin.gov/dislocatedworker/warn/) | | American Job Center. Scraper|
 | Wyoming | | Not Found |
+
+
+## Working JSON Schema Draft
+* Name and address (`street_address`, `municipality`) of the employment site where the plant closing or layoff will occur
+* Name (`official_name`) and telephone number (`official_phone`) of a company official to contact for further information
+* `type` - Statemenet as to whether the planned action is expected to be temporary `layoff`, and, if the entire plant is to be closed `closure`
+* `layoff_date` - The expected date for the first seperation
+* `warn_date` - The data of reciept of notice.
+* `first_seen` - The date this tool first saw this notice.
+* The anticipated schedule for making seperations
+* The job tiles of positions to be affected, and the 
+* `count` - number of affected employees in each job classification
+* Bumping rights `bumping` 
+* Union and the name `union.name` and address `union.address` of each union
+* `note` - Notes
+* `link` - Link to notice
+* `state` - State

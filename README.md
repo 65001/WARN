@@ -25,7 +25,7 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 
 | State  | Link  | Notes  |
 |---|---|---|
-| [Alabama](https://www.madeinalabama.com/warn-list/) | | Requires a web scraper. 1998 data seems to be bad. |
+| [Alabama](https://www.madeinalabama.com/warn-list/) | | Working as of 2023-03-12 |
 | [Alaska](https://jobs.alaska.gov/rr/WARN_notices.htm) | |  Requires a web scraper. |
 | American Samoa | |  Not Listed |
 | [Arizona](https://www.azjobconnection.gov/search/warn_lookups/new) | | American Jobs Center |

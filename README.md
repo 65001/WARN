@@ -17,9 +17,7 @@ WARN Notices must contain specific information as required by [federal regulatio
 
 However not all jurisdictions publish this information.
 
-## Historical Data
-
-The law became effective on February 4, 1989, so jurisdictions should have data going back from then to now, but not all data has been digitized or is otherwise available on the internet. Under applicable open records laws we can ask states for historical records or information in other file formats. 
+# Sources
 
 The below is a list of publicly available WARN Act Notices by jurisdiciton gotten in part by information provided by the [United States of America's Department of Labor here](https://www.dol.gov/agencies/eta/layoffs/contact). 
 
@@ -39,10 +37,10 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | [Georgia](https://www.tcsg.edu/worksource/rapid-response/) | | |
 | Guam | | Not Listed | 
 | [Hawaii](https://labor.hawaii.gov/wdc/real-time-warn-updates/) | | Requires a web scraper. links to the PDF of the actual Notice.  |
-| [Idaho](https://www.labor.idaho.gov/dnn/Businesses/Layoff-Assistance) | https://www.labor.idaho.gov/dnn/Portals/0/Publications/WARNNotice.pdf | PDF. |
+| [Idaho](https://www.labor.idaho.gov/dnn/Businesses/Layoff-Assistance) | [Link](https://www.labor.idaho.gov/dnn/Portals/0/Publications/WARNNotice.pdf) | PDF. |
 | [Illinois](https://dceo.illinois.gov/workforcedevelopment/warn.html) | | PDF archives. XLSX for 2022+. Monthly releases (?) |
-| [Indiana](https://www.in.gov/dwd/warn-notices/) | https://www.in.gov/dwd/warn-notices/current-warn-notices/ | XLSX for everything but links. Links requires web scraper. |
-| [Iowa](https://www.iowaworkforcedevelopment.gov/worker-adjustment-and-retraining-notification-act) | https://www.iowaworkforcedevelopment.gov/sites/search.iowaworkforcedevelopment.gov/files/documents/2018/WARN_20230303.xlsx | Requires Web Scraper in case the link to the XLSX file changes (?) |
+| [Indiana](https://www.in.gov/dwd/warn-notices/) | [Link](https://www.in.gov/dwd/warn-notices/current-warn-notices/) | XLSX for everything but links. Links requires web scraper. |
+| [Iowa](https://www.iowaworkforcedevelopment.gov/worker-adjustment-and-retraining-notification-act) | [Link](https://www.iowaworkforcedevelopment.gov/sites/search.iowaworkforcedevelopment.gov/files/documents/2018/WARN_20230303.xlsx) | Requires Web Scraper in case the link to the XLSX file changes (?) |
 | [Kansas](https://www.kansascommerce.gov/program/workforce-services/warn/) | | AmericanJobCenter |
 | [Kentucky](https://kcc.ky.gov/Pages/News.aspx) | | Scarper for XLSX link changing. |
 | Louisiana | | Not Found |
@@ -65,7 +63,7 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | Northern Mariana Islands | | Not Listed| 
 | [Ohio](https://jfs.ohio.gov/warn/) | | Scraper. Link |
 | [Oklahoma](https://okjobmatch.com/search/warn_lookups/new) | | American Jobs Center. |
-| [Oregon](https://www.oregon.gov/highered/institutions-programs/workforce/Pages/warn.aspx) | https://ccwd.hecc.oregon.gov/Layoff/WARN/Download | XLSX. Requires Scraper to download (?) |
+| [Oregon](https://www.oregon.gov/highered/institutions-programs/workforce/Pages/warn.aspx) | [Link](https://ccwd.hecc.oregon.gov/Layoff/WARN/Download) | XLSX. Requires Scraper to download (?) |
 | [Pennsylvania](https://www.dli.pa.gov/Individuals/Workforce-Development/warn/notices/Pages/default.aspx) | | Scraper. Why |
 | [Puerto Rico](https://www.ddec.pr.gov/en/workforce-development-program) | | |
 | [Rhode Island](https://dlt.ri.gov/employers/worker-adjustment-and-retraining-notification-warn) | | XLSX |
@@ -76,12 +74,15 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | [Utah](https://jobs.utah.gov/employer/business/warnnotices.html) | | Scraper. American Jobs Network. |
 | U.S. Virgin Islands | | Not Listed | 
 | [Vermont](https://www.vermontjoblink.com/search/warn_lookups/new) | | Scraper. American Jobs Network. |
-| [Virginia](https://www.vec.virginia.gov/warn-notices)  | https://www.vec.virginia.gov/warn-notices-csv.csv?field_region_warn_tid=All&field_notice_date_value[min][date]=07%2F01%2F2000&field_notice_date_value[max][date]=06%2F01%2F2023  | It seems that min and max dates can be set via url. CSV file. |
+| [Virginia](https://www.vec.virginia.gov/warn-notices)  | [Link](https://www.vec.virginia.gov/warn-notices-csv.csv?field_region_warn_tid=All&field_notice_date_value[min][date]=07%2F01%2F2000&field_notice_date_value[max][date]=06%2F01%2F2023)  | It seems that min and max dates can be set via url. CSV file. |
 | [Washington](https://esd.wa.gov/about-employees/WARN) | | Scraper. |
 | [West Virginia](https://workforcewv.org/public-information/warn-notices/current-warn-notices) | | PDF |
 | [Wisconsin](https://dwd.wisconsin.gov/dislocatedworker/warn/) | | American Job Center. Scraper|
 | Wyoming | | Not Found |
 
+## Historical Data
+
+The law became effective on February 4, 1989, so jurisdictions should have data going back from then to now, but not all data has been digitized or is otherwise available on the internet. Under applicable open records laws we can ask states for historical records or information in other file formats. 
 
 ## Working JSON Schema Draft
 * Name and address (`street_address`, `municipality`) of the employment site where the plant closing or layoff will occur

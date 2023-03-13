@@ -23,10 +23,10 @@ The law became effective on February 4, 1989, so jurisdictions should have data 
 
 The below is a list of publicly available WARN Act Notices by jurisdiciton gotten in part by information provided by the [United States of America's Department of Labor here](https://www.dol.gov/agencies/eta/layoffs/contact). 
 
-| State  | Link  | Notes  | Dates | Manual work |
+| State  | Link  | Notes  | Dates | Warning |
 |---|---|---|---|---|
-| [Alabama](https://www.madeinalabama.com/warn-list/) | | Working as of 2023-03-12. | 1999-2023 | Remove garbage entries for 1998 |
-| [Alaska](https://jobs.alaska.gov/rr/WARN_notices.htm) | |  Requires a web scraper. |
+| [Alabama](https://www.madeinalabama.com/warn-list/) |   |  Working as of 2023-03-12. | 1999-2023 | |
+| [Alaska](https://jobs.alaska.gov/rr/WARN_notices.htm) | |  Working as of 2023-03-13. | 2006-2022 | ISO date not supported on the `layoff_date` field. |
 | American Samoa | |  Not Listed |
 | [Arizona](https://www.azjobconnection.gov/search/warn_lookups/new) | | American Jobs Center |
 | Arkansas | | Not Found |

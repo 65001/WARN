@@ -1,0 +1,582 @@
+[
+    {
+        "company": "First Student",
+        "municipality": "Matanuska-Susitna Borough",
+        "warn_date": "2022-05-02",
+        "layoff_date": "6/30/22",
+        "employees_impacted": "182",
+        "note": "Loss of contract",
+        "link": "https://jobs.alaska.gov/RR/notices/First_Student_Mat-Su_5-2-22.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Bean’s Cafe",
+        "municipality": "Anchorage",
+        "warn_date": "2021-09-16",
+        "layoff_date": "9/15/21",
+        "employees_impacted": "40",
+        "note": "Loss of contract",
+        "link": "https://jobs.alaska.gov/RR/notices/Beans_Cafe_WARN_Notice_Recd_email_9-16-21.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Kakivik Asset Mgmt",
+        "municipality": "Prudhoe Bay",
+        "warn_date": "2021-07-02",
+        "layoff_date": "8/31/21",
+        "employees_impacted": "134",
+        "note": "Loss of Contract",
+        "link": "https://jobs.alaska.gov/RR/notices/Kakivik_WARN_Letter_to_RR_Coordinators.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "First Student",
+        "municipality": "Fairbanks, North Pole",
+        "warn_date": "2021-04-30",
+        "layoff_date": "6/30/21",
+        "employees_impacted": "185",
+        "note": "Loss of contract",
+        "link": "https://jobs.alaska.gov/RR/notices/First_Student_WARN_Notice_4-30-21.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "GCI Communication Group",
+        "municipality": "Anchorage",
+        "warn_date": "2021-04-12",
+        "layoff_date": "August-November 2021",
+        "employees_impacted": "59",
+        "note": "Business need changes/reorganization; permanent",
+        "link": "https://jobs.alaska.gov/RR/notices/GCI_WARN Notice_4-12-21.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "RavnAir Group, Corvus Airlines, Hageland Aviation Services and Peninsula Aviation Services",
+        "municipality": "Anchorage and 20 smaller Alaska communities, plus Boston, Mass.",
+        "warn_date": "2020-09-30",
+        "layoff_date": "8/7/20",
+        "employees_impacted": "1,234",
+        "note": "COVID-19; permanent",
+        "link": "https://jobs.alaska.gov/RR/notices/RavnAir_Group_Postmked_9-30-20_lttr_dted_8-7-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "HMSHost – Ted Stevens Anchorage International Airport restaurants: Starbucks, Humpy’s Great Alaskan Alehouse, Norton Sound Seafood House, Cinnabon, Alaska Doghaus, Cream, Upper One Restaurant/Lounge, Mezzanine Bar, Anchorage Marketplace and Local Alaska Rustic Marketplace",
+        "municipality": "Anchorage",
+        "warn_date": "2020-08-12",
+        "layoff_date": "10/15/20",
+        "employees_impacted": "123",
+        "note": "COVID-19; permanent",
+        "link": "https://jobs.alaska.gov/RR/notices/WARN_HMSHost_Anchorage_8-12-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "HMSHost – Fairbanks International Airport restaurants: The Local and Starbucks",
+        "municipality": "Fairbanks",
+        "warn_date": "2020-08-12",
+        "layoff_date": "10/15/20",
+        "employees_impacted": "19",
+        "note": "COVID-19; permanent",
+        "link": "https://jobs.alaska.gov/RR/notices/WARN_HMSHost_Fairbanks_8-12-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Chenega Security and Support Solutions LLC",
+        "municipality": "Shemya Island",
+        "warn_date": "2020-07-31",
+        "layoff_date": "9/30/20",
+        "employees_impacted": "64",
+        "note": "",
+        "link": "https://jobs.alaska.gov/RR/notices/Chenega_7-31-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Alaska Airlines",
+        "municipality": "Anchorage",
+        "warn_date": "2020-07-31",
+        "layoff_date": "10/1/20",
+        "employees_impacted": "331",
+        "note": "Permanent",
+        "link": "https://jobs.alaska.gov/RR/notices/AK_Air_WARN_recd_7-31-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Holland America Group,  Carnival UK,  Westmark Hotels, Inc.,  Tour Alaska, Inc.,  Royal Hyway Tours, Inc.,  Anchorage Westmark Hotel,  Escorted Tour Operations,  Anchorage Transportation,  Anchorage Rail Division,  Fairbanks Westmark Hotel,  Fairbanks Transportation,  Westmark McKinley Chalet Resort,  Denali Princess Wilderness Lodge,  Denali Transportation Division,  Healy Homestead",
+        "municipality": "Anchorage,  Fairbanks,  Denali National Park and  Healy",
+        "warn_date": "2020-05-19",
+        "layoff_date": "6/1/20",
+        "employees_impacted": "149",
+        "note": "COVID-19; temporary",
+        "link": "https://jobs.alaska.gov/RR/notices/Westmark_Hotels_Denali_Princess_Lodge_et_al_5-19-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Doyon Drilling Inc.",
+        "municipality": "North Slope",
+        "warn_date": "2020-05-01",
+        "layoff_date": "4/7/20 to 5/31/20",
+        "employees_impacted": "304",
+        "note": "COVID-19; permanent",
+        "link": "https://jobs.alaska.gov/RR/notices/Doyon_Drilling_WARN_5-1-20_No_2_304_total.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Yukon-Kuskokwim Health Corporation",
+        "municipality": "Bethel and other Y-K Delta communities",
+        "warn_date": "2020-04-28",
+        "layoff_date": "4/29/20 to 5/31/20",
+        "employees_impacted": "Up to 300",
+        "note": "COVID-19; permanent",
+        "link": "https://jobs.alaska.gov/RR/notices/Yukon_Kuskokwim_Health_Corp_4-28-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Hard Rock Cafe International STP",
+        "municipality": "Anchorage",
+        "warn_date": "2020-04-27",
+        "layoff_date": "4/13/20 to 4/27/20",
+        "employees_impacted": "54",
+        "note": "COVID-19; temporary",
+        "link": "https://jobs.alaska.gov/RR/notices/Hard_Rock_Cafe_WARN_4-27-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Baker Hughes",
+        "municipality": "North Slope",
+        "warn_date": "2020-04-27",
+        "layoff_date": "4/28/20 to 5/11/20",
+        "employees_impacted": "63",
+        "note": "COVID-19",
+        "link": "https://jobs.alaska.gov/RR/notices/Baker_Hughes_WARN_4-27-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Schlumberger Technology Corp.",
+        "municipality": "North Slope",
+        "warn_date": "2020-04-22",
+        "layoff_date": "4/22/20 to June 2020",
+        "employees_impacted": "129",
+        "note": "COVID-19",
+        "link": "https://jobs.alaska.gov/RR/notices/WARN_Schlumberger_fr_FBorowski_Amend_6-22-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Halliburton Energy Services",
+        "municipality": "Prudhoe Bay",
+        "warn_date": "2020-04-20",
+        "layoff_date": "4/20/20",
+        "employees_impacted": "80",
+        "note": "",
+        "link": "https://jobs.alaska.gov/RR/notices/Halliburton_Energy_Services_WARN_4-20-20_5-5-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Crush Bistro",
+        "municipality": "Anchorage",
+        "warn_date": "2020-04-02",
+        "layoff_date": "4/17/20",
+        "employees_impacted": "24",
+        "note": "COVID-19",
+        "link": "https://jobs.alaska.gov/RR/notices/Crush_Bistro_4-2-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "South Restaurant & Coffeehouse",
+        "municipality": "Anchorage",
+        "warn_date": "2020-04-02",
+        "layoff_date": "4/17/20",
+        "employees_impacted": "82",
+        "note": "COVID-19",
+        "link": "https://jobs.alaska.gov/RR/notices/South_Restaurant_Coffee_House_4-2-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Snow City Café",
+        "municipality": "Anchorage",
+        "warn_date": "2020-04-02",
+        "layoff_date": "4/17/20",
+        "employees_impacted": "37",
+        "note": "COVID-19",
+        "link": "https://jobs.alaska.gov/RR/notices/Snow_City_Cafe_4-2-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Benihana",
+        "municipality": "Anchorage",
+        "warn_date": "2020-04-02",
+        "layoff_date": "4/16/20",
+        "employees_impacted": "68",
+        "note": "COVID-19",
+        "link": "https://jobs.alaska.gov/RR/notices/Benihana_Anchorage_4-2-20.PDF",
+        "state": "ak"
+    },
+    {
+        "company": "Peak Oilfield Services",
+        "municipality": "North Slope, Kenai Peninsula, And Valdez",
+        "warn_date": "2020-04-01",
+        "layoff_date": "4/1/20 5/31/20",
+        "employees_impacted": "161",
+        "note": "COVID-19",
+        "link": "https://jobs.alaska.gov/RR/notices/Peak_Oilfield_Services_WARN_4-1-20_and_3-30.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Spenard Roadhouse",
+        "municipality": "Anchorage",
+        "warn_date": "2020-04-01",
+        "layoff_date": "4/17/20",
+        "employees_impacted": "77",
+        "note": "COVID-19",
+        "link": "https://jobs.alaska.gov/RR/notices/Spenard_Roadhouse_4-1-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Westmark Anchorage",
+        "municipality": "Anchorage",
+        "warn_date": "2020-03-25",
+        "layoff_date": "3/25/20",
+        "employees_impacted": "37",
+        "note": "COVID-19; temporary",
+        "link": "https://jobs.alaska.gov/RR/notices/Westmark_Anchorage_WARN_wo_names_w_ee_lttr_3-25-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Alsco",
+        "municipality": "Anchorage",
+        "warn_date": "2020-03-25",
+        "layoff_date": "3/25/20",
+        "employees_impacted": "21",
+        "note": "COVID-19; temporary",
+        "link": "https://jobs.alaska.gov/RR/notices/Alsco_WARN_and_attchmt_3-25-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Alyeska Resort",
+        "municipality": "Girdwood",
+        "warn_date": "2020-03-18",
+        "layoff_date": "3/19/20",
+        "employees_impacted": "616",
+        "note": "COVID-19",
+        "link": "https://jobs.alaska.gov/RR/notices/Alyeska_Resort_WARN_3-24-20.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "British Petroleum",
+        "municipality": "North Slope",
+        "warn_date": "2019-12-19",
+        "layoff_date": "2/20/20",
+        "employees_impacted": "345",
+        "note": "Sale of business",
+        "link": "https://jobs.alaska.gov/RR/notices/BP_WARN_North_Slope.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "British Petroleum",
+        "municipality": "Anchorage",
+        "warn_date": "2019-12-19",
+        "layoff_date": "2/20/20",
+        "employees_impacted": "287",
+        "note": "Sale of business",
+        "link": "https://jobs.alaska.gov/RR/notices/BP_WARN_Anchorage.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "AECOM",
+        "municipality": "Eielson AFB",
+        "warn_date": "2019-12-06",
+        "layoff_date": "1/4/20",
+        "employees_impacted": "160",
+        "note": "End of contract",
+        "link": "https://jobs.alaska.gov/RR/notices/AECOM_Eielson_AFB_Nov.2019.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Nordstrom Anchorage",
+        "municipality": "Anchorage",
+        "warn_date": "2019-06-26",
+        "layoff_date": "09/13/19",
+        "employees_impacted": "173",
+        "note": "Store closure",
+        "link": "https://jobs.alaska.gov/RR/notices/Nordstrom_Anchorage_7.19.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Aleut O&M Services, LLC",
+        "municipality": "Clear, AK",
+        "warn_date": "2018-07-02",
+        "layoff_date": "8/31/18",
+        "employees_impacted": "74",
+        "note": "Loss of contract",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "BAE Systems",
+        "municipality": "Clear, AK",
+        "warn_date": "2018-06-25",
+        "layoff_date": "8/31/18",
+        "employees_impacted": "101",
+        "note": "Loss of contract",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "Mistras Group, Inc. and subsidiary Quality Services Laboratories Inc.",
+        "municipality": "Prudhoe Bay/ Anchorage",
+        "warn_date": "2018-01-23",
+        "layoff_date": "3/31/18",
+        "employees_impacted": "261",
+        "note": "Loss of contract",
+        "link": "https://jobs.alaska.gov/RR/notices/Mistras_Group_Inc._1.18.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Sam’s Club",
+        "municipality": "Fairbanks",
+        "warn_date": "2018-01-11",
+        "layoff_date": "Starting 3/16/18",
+        "employees_impacted": "177",
+        "note": "Store closure",
+        "link": "https://jobs.alaska.gov/RR/notices/Sams_Club_Fairbanks_WARN_1-11-18.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Sam’s Club",
+        "municipality": "Anchorage on Muldoon Road",
+        "warn_date": "2018-01-11",
+        "layoff_date": "Starting 3/16/18",
+        "employees_impacted": "167",
+        "note": "Store closure",
+        "link": "https://jobs.alaska.gov/RR/notices/Sams_Club_Anchorage_on_Muldoon_WARN_1-11-18.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Sam’s Club",
+        "municipality": "Anchorage on Old Seward Hwy.",
+        "warn_date": "2018-01-11",
+        "layoff_date": "Starting 3/16/18",
+        "employees_impacted": "181",
+        "note": "Store closure",
+        "link": "https://jobs.alaska.gov/RR/notices/Sams_Club_Anchorage_on_Old_Seward_WARN_1-11-18.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Sears Holdings",
+        "municipality": "Anchorage",
+        "warn_date": "2018-01-04",
+        "layoff_date": "Starting 4/8/18",
+        "employees_impacted": "67",
+        "note": "Store closure",
+        "link": "https://jobs.alaska.gov/RR/notices/Sears_Holdings.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Kodiak Support Services, JV",
+        "municipality": "Kodiak",
+        "warn_date": "2017-11-30",
+        "layoff_date": "12/31/17",
+        "employees_impacted": "125",
+        "note": "Loss of contract",
+        "link": "https://jobs.alaska.gov/RR/notices/Kodiak_Support_Services.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "ASRC Energy Services",
+        "municipality": "Milne, Endicott, and Northstar on the North Slope",
+        "warn_date": "2017-11-28",
+        "layoff_date": "12/18/17 to 12/31/17",
+        "employees_impacted": "92",
+        "note": "Services terminated",
+        "link": "https://jobs.alaska.gov/RR/notices/ASRC_Energy_Services_11-28-17.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Norcon",
+        "municipality": "North Slope",
+        "warn_date": "2017-05-12",
+        "layoff_date": "Varied",
+        "employees_impacted": "147",
+        "note": "Loss of contract",
+        "link": "https://jobs.alaska.gov/RR/notices/Norcon_Warn_05.2017.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "First Student",
+        "municipality": "Soldotna, Homer & Seward",
+        "warn_date": "2017-04-19",
+        "layoff_date": "6/30/17",
+        "employees_impacted": "149",
+        "note": "Loss of contract",
+        "link": "https://jobs.alaska.gov/RR/notices/First_Student_WARN_4-19-17.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Parker Drilling",
+        "municipality": "Anchorage/ North Slope",
+        "warn_date": "2016-03-21",
+        "layoff_date": "March to May 2016",
+        "employees_impacted": "55",
+        "note": "Reduction in work",
+        "link": "https://jobs.alaska.gov/RR/notices/Parker_Drilling_03.16.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "CH2M",
+        "municipality": "North Slope",
+        "warn_date": "2016-03-17",
+        "layoff_date": "3/31/16",
+        "employees_impacted": "58",
+        "note": "Loss of contract",
+        "link": "https://jobs.alaska.gov/RR/notices/CH2M_WARN_notice.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Shell",
+        "municipality": "Anchorage",
+        "warn_date": "2016-01-27",
+        "layoff_date": "3/31/16",
+        "employees_impacted": "75",
+        "note": "End of exploration",
+        "link": "https://jobs.alaska.gov/RR/notices/Shell_01.16.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "Walmart",
+        "municipality": "Juneau",
+        "warn_date": "2016-01-15",
+        "layoff_date": "4/15/16",
+        "employees_impacted": "168",
+        "note": "Store closure",
+        "link": "https://jobs.alaska.gov/RR/notices/Walmart_01.16.pdf",
+        "state": "ak"
+    },
+    {
+        "company": "ASRC Energy Services",
+        "municipality": "Statewide",
+        "warn_date": "2015-11-10",
+        "layoff_date": "11/1/15 to 12/31/15",
+        "employees_impacted": "134",
+        "note": "End of exploration",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "Doyon Universal Services LLC",
+        "municipality": "Anchorage/ North Slope",
+        "warn_date": "2013-05-10",
+        "layoff_date": "8/15/13",
+        "employees_impacted": "75",
+        "note": "Loss of contract",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "TriWest Healthcare Alliance Corp",
+        "municipality": "Statewide",
+        "warn_date": "2012-12-10",
+        "layoff_date": "Varied",
+        "employees_impacted": "31",
+        "note": "Loss of contract",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "CH2M Hill",
+        "municipality": "North Slope",
+        "warn_date": "2012-12-20",
+        "layoff_date": "Varied",
+        "employees_impacted": "380",
+        "note": "Loss of contracts",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "Williams Inc.",
+        "municipality": "Juneau",
+        "warn_date": "2012-06-30",
+        "layoff_date": "9/2/12",
+        "employees_impacted": "90",
+        "note": "Store closure",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "Hostess Brands, Inc.",
+        "municipality": "Statewide",
+        "warn_date": "2012-05-04",
+        "layoff_date": "11/19/12",
+        "employees_impacted": "90",
+        "note": "Company closure",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "United Parcel Services",
+        "municipality": "Anchorage",
+        "warn_date": "2010-03-15",
+        "layoff_date": "various",
+        "employees_impacted": "109",
+        "note": "Restructuring",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "NovaGold",
+        "municipality": "Nome",
+        "warn_date": "2008-11-26",
+        "layoff_date": "11/28/08",
+        "employees_impacted": "130",
+        "note": "Lack of financing",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "Agrium U.S. Inc. Kenai Nitrogen Operations",
+        "municipality": "Kenai",
+        "warn_date": "2007-09-26",
+        "layoff_date": "",
+        "employees_impacted": "140",
+        "note": "Lack of natural gas",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "Arctec Services",
+        "municipality": "Clear",
+        "warn_date": "2006-06-20",
+        "layoff_date": "9/30/06",
+        "employees_impacted": "171",
+        "note": "Loss of contract",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "Chugach Alutiiq Joint Venture",
+        "municipality": "Fort Greely",
+        "warn_date": "2006-05-30",
+        "layoff_date": "6/1/06",
+        "employees_impacted": "151",
+        "note": "Loss of contract",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "First Student",
+        "municipality": "Mat-Su",
+        "warn_date": "2006-04-10",
+        "layoff_date": "6/30/06",
+        "employees_impacted": "102",
+        "note": "Loss of contract",
+        "link": null,
+        "state": "ak"
+    },
+    {
+        "company": "Johnson's Tire Service, Inc.",
+        "municipality": "Anchorage, Eagle River, Wasilla & Soldotna",
+        "warn_date": "2006-02-25",
+        "layoff_date": "4/1/06",
+        "employees_impacted": "100",
+        "note": "Change in ownership only",
+        "link": null,
+        "state": "ak"
+    }
+]

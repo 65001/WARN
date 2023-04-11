@@ -30,7 +30,7 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | Arkansas | | Not Found |
 | [California](https://edd.ca.gov/en/jobs_and_training/Layoff_Services_WARN/) | |  XLSX for latest info (July 1 of last year to July 1st of the next year). PDF for the rest| 
 | [Colorado](https://cdle.colorado.gov/employers/layoff-separations/layoff-warn-list) | | Google Docs. Probably requires yearly changes. |
-| [Connecticut](https://www.ctdol.state.ct.us/progsupt/bussrvce/warnreports/warnreports.htm) | Working as of 2023-04-11. | 2015-2023 | ISO date not supported on the `layoff_date` field. |
+| [Connecticut](https://www.ctdol.state.ct.us/progsupt/bussrvce/warnreports/warnreports.htm) | |  Working as of 2023-04-11. | 2015-2023 | ISO date not supported on the `layoff_date` field. |
 | [Delaware](https://joblink.delaware.gov/search/warn_lookups/new) | |American Jobs Center |
 | [District of Columbia](https://does.dc.gov/page/industry-closings-and-layoffs-warn-notifications-2023) | | Requires a web scraper. |
 | [Florida](https://floridajobs.org/office-directory/division-of-workforce-services/workforce-programs/reemployment-and-emergency-assistance-coordination-team-react/warn-notices) | |  Requires a web scraper. Slow. Links to the PDF of the actual Notice.|

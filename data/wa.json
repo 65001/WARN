@@ -1,0 +1,3702 @@
+[
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "PeaceHealth",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-02-11",
+    "layoff_date": "2026-04-12",
+    "type": "PermanentLayoff",
+    "impacted": 94,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Eddie Bauer LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-02-09",
+    "layoff_date": "2026-04-15",
+    "type": "Closure",
+    "impacted": 60,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "GMRI, Inc. dba Bahama Breeze",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tukwila",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-02-03",
+    "layoff_date": "2026-04-05",
+    "type": "Closure",
+    "impacted": 93,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "T-Mobile",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-02-02",
+    "layoff_date": "2026-04-02",
+    "type": "PermanentLayoff",
+    "impacted": 393,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amazon",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-30",
+    "layoff_date": "2026-04-28",
+    "type": "PermanentLayoff",
+    "impacted": 2198,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Expedia, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-28",
+    "layoff_date": "2026-04-01",
+    "type": "PermanentLayoff",
+    "impacted": 162,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amazon",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-28",
+    "layoff_date": "2026-04-28",
+    "type": "Closure",
+    "impacted": 401,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CHS Northwest",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lynden",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-28",
+    "layoff_date": "2026-04-01",
+    "type": "PermanentLayoff",
+    "impacted": 11,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Meta Platforms, Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "King County",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-19",
+    "layoff_date": "2026-03-20",
+    "type": "PermanentLayoff",
+    "impacted": 331,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Food Service Slicing LLC dba Crunch Pak",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Selah",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-15",
+    "layoff_date": "2026-03-31",
+    "type": "Closure",
+    "impacted": 101,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SMBC Manubank",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-08",
+    "layoff_date": "2026-03-10",
+    "type": "PermanentLayoff",
+    "impacted": 5,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Tessera",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "King County",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-06",
+    "layoff_date": "2026-03-08",
+    "type": "PermanentLayoff",
+    "impacted": 1,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Swedish Health Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "King and Snohomish Counties",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-06",
+    "layoff_date": "2026-03-07",
+    "type": "PermanentLayoff",
+    "impacted": 49,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Doosan GridTech",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Bellevue",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-12-29",
+    "layoff_date": "2026-02-27",
+    "type": "PermanentLayoff",
+    "impacted": 24,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amazon",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle & Bellevue",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-12-13",
+    "layoff_date": "2026-02-02",
+    "type": "PermanentLayoff",
+    "impacted": 84,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Packaging Corporation of America",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Wallula",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-12-11",
+    "layoff_date": "2026-02-09",
+    "type": "Closure",
+    "impacted": 200,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Verizon",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-21",
+    "layoff_date": "2026-01-23",
+    "type": "PermanentLayoff",
+    "impacted": 165,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Providence Health & Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-21",
+    "layoff_date": "2026-01-20",
+    "type": "PermanentLayoff",
+    "impacted": 57,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Nordstrom Credit Bank",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Remote in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-20",
+    "layoff_date": "2026-03-01",
+    "type": "PermanentLayoff",
+    "impacted": 6,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Nordstrom Credit Bank",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Remote in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-20",
+    "layoff_date": "2026-02-01",
+    "type": "PermanentLayoff",
+    "impacted": 2,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Meteorcomm LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Renton",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-18",
+    "layoff_date": "2026-01-17",
+    "type": "PermanentLayoff",
+    "impacted": 49,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Battelle Memorial Institute / Pacific Northwest National Laboratory",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-18",
+    "layoff_date": "2025-11-18",
+    "type": "PermanentLayoff",
+    "impacted": 68,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Nordstrom Credit Bank",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Remote in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-17",
+    "layoff_date": "2026-02-21",
+    "type": "PermanentLayoff",
+    "impacted": 1,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "The Skillet Group / Skillet SA, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-14",
+    "layoff_date": "2025-12-12",
+    "type": "Closure",
+    "impacted": 9,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "The Skillet Group / Skillet Diner, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-14",
+    "layoff_date": "2025-11-12",
+    "type": "Closure",
+    "impacted": 18,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "The Skillet Group / Skillet Street Food, Inc. DBA Skillet Diner Harbor Steps",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-14",
+    "layoff_date": "2025-11-12",
+    "type": "Closure",
+    "impacted": 20,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Great Floors (Artisan Designer Group)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-13",
+    "layoff_date": "2026-01-12",
+    "type": "Closure",
+    "impacted": 58,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Solgen Power, LLC, d/b/a Purelight Power",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-13",
+    "layoff_date": "2025-12-23",
+    "type": "Closure",
+    "impacted": 71,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Rad Power Bikes, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-07",
+    "layoff_date": "2026-03-06",
+    "type": "Closure",
+    "impacted": 64,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Adams County Public Hospital District #2, DBA East Adams Rural Healthcare",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ritzville",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-07",
+    "layoff_date": "2026-01-07",
+    "type": "PermanentLayoff",
+    "impacted": 108,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Infineon Technologies Americas Corp.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lynnwood",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-11-04",
+    "layoff_date": "2025-11-14",
+    "type": "PermanentLayoff",
+    "impacted": 61,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Phillips Ultrasound, Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Bothell",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-31",
+    "layoff_date": "2025-12-31",
+    "type": "PermanentLayoff",
+    "impacted": 33,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Tessera",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Joint Base Lewis McChord",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-31",
+    "layoff_date": "2025-11-01",
+    "type": "TemporaryLayoff",
+    "impacted": 85,
+    "notes": "Action: Layoff, Type: Temporary",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Inventprise Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Redmond",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-30",
+    "layoff_date": "2025-12-31",
+    "type": "PermanentLayoff",
+    "impacted": 117,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "TransAlta",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Centralia",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-30",
+    "layoff_date": "2026-01-05",
+    "type": "PermanentLayoff",
+    "impacted": 72,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amazon",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-28",
+    "layoff_date": "2026-01-26",
+    "type": "PermanentLayoff",
+    "impacted": 2303,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "PeaceHealth",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-28",
+    "layoff_date": "2025-12-27",
+    "type": "PermanentLayoff",
+    "impacted": 241,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "PacificSource",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tacoma",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-28",
+    "layoff_date": "2025-12-31",
+    "type": "PermanentLayoff",
+    "impacted": 4,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "JARDE LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Bremerton",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-24",
+    "layoff_date": "2025-10-31",
+    "type": "Closure",
+    "impacted": 110,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Meta Platforms, Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle, Bellevue, Redmond",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-23",
+    "layoff_date": "2025-12-22",
+    "type": "PermanentLayoff",
+    "impacted": 101,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Virginia Mason Franciscan Health Virtual Health Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tacoma",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-17",
+    "layoff_date": "2026-01-02",
+    "type": "PermanentLayoff",
+    "impacted": 5,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Above The Dirt LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Quincy",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-16",
+    "layoff_date": "2025-12-15",
+    "type": "PermanentLayoff",
+    "impacted": 392,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "FirstFruits, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Prescott",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-16",
+    "layoff_date": "2025-11-30",
+    "type": "PermanentLayoff",
+    "impacted": 1200,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Double M Orchards",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Quincy",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-10",
+    "layoff_date": "2025-12-05",
+    "type": "PermanentLayoff",
+    "impacted": 197,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Gebbers Farms, Etal",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Brewster",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-10",
+    "layoff_date": "2025-11-25",
+    "type": "PermanentLayoff",
+    "impacted": 3465,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "King Fuji Ranch, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Mattawa",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-10",
+    "layoff_date": "2025-11-28",
+    "type": "PermanentLayoff",
+    "impacted": 334,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Starbucks",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle, Kent",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-09",
+    "layoff_date": "2025-12-05",
+    "type": "PermanentLayoff",
+    "impacted": 974,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SimplyIOA, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Olympia",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-06",
+    "layoff_date": "2025-12-02",
+    "type": "Closure",
+    "impacted": 1,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Stemilt Ag Services LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Wenatchee",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-06",
+    "layoff_date": "2025-11-21",
+    "type": "PermanentLayoff",
+    "impacted": 1561,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Starbucks",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-03",
+    "layoff_date": "2025-12-05",
+    "type": "Closure",
+    "impacted": 338,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Oracle America, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-01",
+    "layoff_date": "2025-11-03",
+    "type": "PermanentLayoff",
+    "impacted": 4,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Manson Growers Orchard Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Manson",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-01",
+    "layoff_date": "2025-11-30",
+    "type": "PermanentLayoff",
+    "impacted": 257,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "AgriNorthwest",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Kennewick",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-01",
+    "layoff_date": "2025-11-30",
+    "type": "PermanentLayoff",
+    "impacted": 62,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "BM Administrative Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-30",
+    "layoff_date": "2025-11-30",
+    "type": "PermanentLayoff",
+    "impacted": 268,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Walmart",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Federal Way",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-29",
+    "layoff_date": "2025-10-31",
+    "type": "Closure",
+    "impacted": 253,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Agrimacs, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Chelan",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-29",
+    "layoff_date": "2025-11-14",
+    "type": "PermanentLayoff",
+    "impacted": 1368,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Kershaw Farm Labor Management",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Yakima",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-26",
+    "layoff_date": "2025-11-25",
+    "type": "PermanentLayoff",
+    "impacted": 539,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Darigold, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Chehalis",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-23",
+    "layoff_date": "2025-11-23",
+    "type": "Closure",
+    "impacted": 55,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Gilbert Orchards, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Yakima",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-23",
+    "layoff_date": "2025-11-22",
+    "type": "PermanentLayoff",
+    "impacted": 599,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Overlake Medical Center & Clinics",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Bellevue",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-22",
+    "layoff_date": "2025-11-23",
+    "type": "PermanentLayoff",
+    "impacted": 55,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sundquist Fruit, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Yakima and Franklin Counties",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-19",
+    "layoff_date": "2025-11-20",
+    "type": "PermanentLayoff",
+    "impacted": 424,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Monson Ranches Snake River Orchards, LLC DBA Goose Ridge Vineyards",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Benton City",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-19",
+    "layoff_date": "2025-11-07",
+    "type": "PermanentLayoff",
+    "impacted": 310,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Seattle Children's Hospital",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle, Bellevue, Everett, Federal Way, Kennewick",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-17",
+    "layoff_date": "2025-11-15",
+    "type": "PermanentLayoff",
+    "impacted": 154,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "AG Management Group, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Yakima",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-17",
+    "layoff_date": "2025-11-19",
+    "type": "PermanentLayoff",
+    "impacted": 1276,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Borton & Sons, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-17",
+    "layoff_date": "2025-11-09",
+    "type": "PermanentLayoff",
+    "impacted": 1025,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cascade View Fruit & Cold Storage, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Selah",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-15",
+    "layoff_date": "2025-11-16",
+    "type": "PermanentLayoff",
+    "impacted": 263,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Columbia Orchard Management",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Wenatchee",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-15",
+    "layoff_date": "2025-11-14",
+    "type": "PermanentLayoff",
+    "impacted": 898,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "NWFM",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-12",
+    "layoff_date": "2025-11-15",
+    "type": "PermanentLayoff",
+    "impacted": 283,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Washington Orchard Management",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-11",
+    "layoff_date": "2025-11-07",
+    "type": "TemporaryLayoff",
+    "impacted": 336,
+    "notes": "Action: Layoff, Type: Temporary",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Microsoft",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Redmond",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-08",
+    "layoff_date": "2025-11-07",
+    "type": "PermanentLayoff",
+    "impacted": 42,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Virginia Mason Franciscan Health Virtual Health Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tacoma",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-08",
+    "layoff_date": "2025-11-10",
+    "type": "PermanentLayoff",
+    "impacted": 24,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Virginia Mason Franciscan Health Insurance Verification",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tacoma",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-08",
+    "layoff_date": "2025-11-07",
+    "type": "PermanentLayoff",
+    "impacted": 6,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Oracle America, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-02",
+    "layoff_date": "2025-11-03",
+    "type": "PermanentLayoff",
+    "impacted": 101,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Salesforce, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle, Bellevue",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-02",
+    "layoff_date": "2025-11-03",
+    "type": "PermanentLayoff",
+    "impacted": 93,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Providence Health & Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-28",
+    "layoff_date": "2025-10-25",
+    "type": "PermanentLayoff",
+    "impacted": 5,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Pfizer",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Bothell",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-25",
+    "layoff_date": "2025-08-25",
+    "type": "PermanentLayoff",
+    "impacted": 100,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Rec Room, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-25",
+    "layoff_date": "2025-10-26",
+    "type": "PermanentLayoff",
+    "impacted": 141,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Fred Meyer",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Kent",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-22",
+    "layoff_date": "2025-10-17",
+    "type": "Closure",
+    "impacted": 172,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Fred Meyer",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Everett",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-22",
+    "layoff_date": "2025-10-17",
+    "type": "Closure",
+    "impacted": 189,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Fred Meyer",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Redmond",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-22",
+    "layoff_date": "2025-10-18",
+    "type": "Closure",
+    "impacted": 194,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Fred Meyer",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-22",
+    "layoff_date": "2025-10-18",
+    "type": "Closure",
+    "impacted": 201,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Nordstrom Credit Bank",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Remote in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-21",
+    "layoff_date": "2025-11-15",
+    "type": "PermanentLayoff",
+    "impacted": 1,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Car Toys, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-19",
+    "layoff_date": "2025-10-20",
+    "type": "Closure",
+    "impacted": 177,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Zeco Systems, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-18",
+    "layoff_date": "2025-10-31",
+    "type": "PermanentLayoff",
+    "impacted": 6,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "T-Mobile",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "King County",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-15",
+    "layoff_date": "2025-10-13",
+    "type": "PermanentLayoff",
+    "impacted": 131,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Oracle America, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-13",
+    "layoff_date": "2025-10-13",
+    "type": "PermanentLayoff",
+    "impacted": 161,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "F5, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle and Liberty Lake",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-12",
+    "layoff_date": "2025-10-15",
+    "type": "PermanentLayoff",
+    "impacted": 106,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Block, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Statewide",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-12",
+    "layoff_date": "2025-10-13",
+    "type": "PermanentLayoff",
+    "impacted": 4,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Providence Health & Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-08",
+    "layoff_date": "2025-10-07",
+    "type": "PermanentLayoff",
+    "impacted": 126,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Microsoft",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Redmond",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-04",
+    "layoff_date": "2025-10-03",
+    "type": "PermanentLayoff",
+    "impacted": 40,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Jack in the Box",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-04",
+    "layoff_date": "2025-10-03",
+    "type": "Closure",
+    "impacted": 13,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "LevelTen Energy, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-01",
+    "layoff_date": "2025-08-15",
+    "type": "PermanentLayoff",
+    "impacted": 60,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Fred Meyer",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tacoma",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-29",
+    "layoff_date": "2025-09-27",
+    "type": "Closure",
+    "impacted": 226,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "RV Country Washington LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Kelso",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-25",
+    "layoff_date": "2025-09-30",
+    "type": "Closure",
+    "impacted": 17,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Quality Food Centers, Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Mill Creek",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-21",
+    "layoff_date": "2025-09-03",
+    "type": "Closure",
+    "impacted": 76,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "KIRA Services, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Pacific Beach",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-18",
+    "layoff_date": "2025-08-11",
+    "type": "PermanentLayoff",
+    "impacted": 7,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Jack in the Box",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-14",
+    "layoff_date": "2025-09-10",
+    "type": "Closure",
+    "impacted": 12,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Jack in the Box",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tukwila",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-14",
+    "layoff_date": "2025-09-10",
+    "type": "Closure",
+    "impacted": 14,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "FIS",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Bellevue",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-11",
+    "layoff_date": "2025-09-15",
+    "type": "PermanentLayoff",
+    "impacted": 138,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "GSC Transport, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tacoma",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-10",
+    "layoff_date": "2025-07-10",
+    "type": "PermanentLayoff",
+    "impacted": 10,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "GSC Solutions, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tacoma",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-10",
+    "layoff_date": "2025-07-10",
+    "type": "PermanentLayoff",
+    "impacted": 7,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "MacMillan-Piper, LLC.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle, Tacoma",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-10",
+    "layoff_date": "2025-07-10",
+    "type": "Closure",
+    "impacted": 92,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Indeed, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-10",
+    "layoff_date": "2025-09-09",
+    "type": "PermanentLayoff",
+    "impacted": 92,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Western Forest Products Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Vancouver",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-09",
+    "layoff_date": "2025-07-08",
+    "type": "Closure",
+    "impacted": 112,
+    "notes": "Action: Closure, Type: Temporary",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ByteDance, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Bellevue",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-07",
+    "layoff_date": "2025-07-28",
+    "type": "PermanentLayoff",
+    "impacted": 27,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "TikTok, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Bellevue",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-07",
+    "layoff_date": "2025-07-28",
+    "type": "PermanentLayoff",
+    "impacted": 38,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Quality Built, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Not Provided",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-07",
+    "layoff_date": "2025-07-03",
+    "type": "Closure",
+    "impacted": 1,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Microsoft",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Redmond and Bellevue",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-02",
+    "layoff_date": "2025-08-31",
+    "type": "PermanentLayoff",
+    "impacted": 830,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Northwest Offset Printing, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Spokane Valley",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-01",
+    "layoff_date": "2025-08-31",
+    "type": "Closure",
+    "impacted": 68,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amazon Fresh",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Federal Way",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-06-20",
+    "layoff_date": "2025-08-19",
+    "type": "Closure",
+    "impacted": 125,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Del Monte Foods, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Yakima, Wapato",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-06-06",
+    "layoff_date": "2025-08-08",
+    "type": "Closure",
+    "impacted": 51,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Virginia Mason Franciscan Health Virtual Health Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tacoma",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-06-05",
+    "layoff_date": "2025-07-28",
+    "type": "Closure",
+    "impacted": 116,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hood Packaging Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Vancouver",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-06-03",
+    "layoff_date": "2025-08-01",
+    "type": "Closure",
+    "impacted": 94,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Microsoft",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Redmond",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-06-02",
+    "layoff_date": "2025-08-01",
+    "type": "PermanentLayoff",
+    "impacted": 305,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "LifeSkills Connection Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sedro Woolley",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-05-30",
+    "layoff_date": "2025-06-30",
+    "type": "Closure",
+    "impacted": 119,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Emerald Transport Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Quincy",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-05-27",
+    "layoff_date": "2025-05-27",
+    "type": "PermanentLayoff",
+    "impacted": 1,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Enterprise for Progress in the Community (EPIC)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Yakima",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-05-22",
+    "layoff_date": "2025-06-30",
+    "type": "PermanentLayoff",
+    "impacted": 198,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Incyte Diagnostics",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Spokane Valley",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-05-22",
+    "layoff_date": "2025-08-04",
+    "type": "PermanentLayoff",
+    "impacted": 310,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Microsoft",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Redmond",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-05-13",
+    "layoff_date": "2025-07-12",
+    "type": "PermanentLayoff",
+    "impacted": 1985,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "College Success Foundation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Bellevue",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-05-12",
+    "layoff_date": "2025-07-09",
+    "type": "PermanentLayoff",
+    "impacted": 100,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Starbucks",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-05-05",
+    "layoff_date": "2025-07-04",
+    "type": "PermanentLayoff",
+    "impacted": 8,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SDS Lumber LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Bingen",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-05-01",
+    "layoff_date": "2025-06-02",
+    "type": "Closure",
+    "impacted": 81,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Accelerate360 Distribution, LLC - Dakota Merchandising Work Unit",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-04-28",
+    "layoff_date": "2025-06-28",
+    "type": "Closure",
+    "impacted": 31,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "TEKsystems, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Redmond",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-04-25",
+    "layoff_date": "2025-06-13",
+    "type": "PermanentLayoff",
+    "impacted": 67,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "MV Transportation, Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Redmond",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-04-24",
+    "layoff_date": "2025-06-30",
+    "type": "PermanentLayoff",
+    "impacted": 287,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "AMT Medical, Inc. dba Velocity medtech",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Monroe",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-04-24",
+    "layoff_date": "2025-06-23",
+    "type": "PermanentLayoff",
+    "impacted": 70,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SambaNova Systems",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-04-22",
+    "layoff_date": "2025-04-22",
+    "type": "PermanentLayoff",
+    "impacted": 8,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "United States Cellular Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-04-07",
+    "layoff_date": "2025-06-02",
+    "type": "PermanentLayoff",
+    "impacted": 86,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Recreational Equipment Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Issaquah",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-03-31",
+    "layoff_date": "2025-03-31",
+    "type": "PermanentLayoff",
+    "impacted": 4,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "MSRE Management, L.L.C., dba Martin Selig Real Estate",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-03-28",
+    "layoff_date": "2025-04-01",
+    "type": "PermanentLayoff",
+    "impacted": 86,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cornish College of the Arts",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-03-27",
+    "layoff_date": "2025-05-31",
+    "type": "Closure",
+    "impacted": 354,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Columbia River Mental Health Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Vancouver",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-03-24",
+    "layoff_date": "2024-11-04",
+    "type": "TemporaryLayoff",
+    "impacted": 112,
+    "notes": "Action: Layoff, Type: Temporary",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "American Medical Response Ambulance Service, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Centralia, Chehalis",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-03-24",
+    "layoff_date": "2025-05-31",
+    "type": "Closure",
+    "impacted": 35,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cow Palace LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Granger",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-03-10",
+    "layoff_date": "2025-05-09",
+    "type": "Closure",
+    "impacted": 100,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "The Cheesecake Factory",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-03-06",
+    "layoff_date": "2025-05-04",
+    "type": "Closure",
+    "impacted": 119,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Starbucks",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Seattle",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-02-26",
+    "layoff_date": "2025-05-02",
+    "type": "PermanentLayoff",
+    "impacted": 612,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Warner Bros. Discovery, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Kirkland",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-02-25",
+    "layoff_date": "2025-04-26",
+    "type": "PermanentLayoff",
+    "impacted": 131,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Advanced Drainage Systems, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Olympia",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-01-28",
+    "layoff_date": "2025-03-29",
+    "type": "Closure",
+    "impacted": 54,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Recreational Equipment Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sumner",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-01-24",
+    "layoff_date": "2025-01-24",
+    "type": "PermanentLayoff",
+    "impacted": 45,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Associated Materials, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Fife",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-01-13",
+    "layoff_date": "2025-01-13",
+    "type": "Closure",
+    "impacted": 150,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Recreational Equipment Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-01-13",
+    "layoff_date": "2025-03-31",
+    "type": "PermanentLayoff",
+    "impacted": 31,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "REC Silicon, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Moses Lake",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-01-06",
+    "layoff_date": "2025-01-16",
+    "type": "Closure",
+    "impacted": 224,
+    "notes": "Action: Closure, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Boeing",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-12-09",
+    "layoff_date": "2025-02-21",
+    "type": "PermanentLayoff",
+    "impacted": 396,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Boeing",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-11-15",
+    "layoff_date": "2024-12-20",
+    "type": "PermanentLayoff",
+    "impacted": 7,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Boeing",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Various locations in Washington",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-11-15",
+    "layoff_date": "2025-01-17",
+    "type": "PermanentLayoff",
+    "impacted": 2192,
+    "notes": "Action: Layoff, Type: Permanent",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t...",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "1",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 3,
+    "notes": "Action: 4, Type: 5",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "1",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "2",
+      "state": "wa",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": "Action: 5, Type: 6",
+    "link": null
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "employer": {
+      "name": "Barclays Card",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-01-08",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 227,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/180"
+  },
+  {
+    "employer": {
+      "name": "William Aurthur / Crane Co",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-04-18",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 270,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/127"
+  },
+  {
+    "employer": {
+      "name": "Verso Paper",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-11-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 150,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/54"
+  },
+  {
+    "employer": {
+      "name": "Owens Corning Composite Materials",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-10-09",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 60,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/103"
+  },
+  {
+    "employer": {
+      "name": "Family Dollar",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-05-05",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 8,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/85"
+  },
+  {
+    "employer": {
+      "name": "Sitel",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-12-08",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 150,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/109"
+  },
+  {
+    "employer": {
+      "name": "Dollar Express/Family Dollar",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-04-03",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 8,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/69"
+  },
+  {
+    "employer": {
+      "name": "Cascade Fiber",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-06-29",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 200,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/132"
+  },
+  {
+    "employer": {
+      "name": "UTC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2014-11-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 395,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/128"
+  },
+  {
+    "employer": {
+      "name": "Emery Waterhouse",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2018-10-10",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 150,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/162"
+  },
+  {
+    "employer": {
+      "name": "Dollar Express/Family Dollar",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-04-03",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 5,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/70"
+  },
+  {
+    "employer": {
+      "name": "Expera",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-10-12",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 220,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/50"
+  },
+  {
+    "employer": {
+      "name": "Great Northern Paper",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2014-02-06",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 250,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/130"
+  },
+  {
+    "employer": {
+      "name": "Dollar Express/Family Dollar",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-04-03",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 5,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/71"
+  },
+  {
+    "employer": {
+      "name": "Hostess",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2012-01-25",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 423,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/131"
+  },
+  {
+    "employer": {
+      "name": "Growers Express",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-12-29",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 93,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/249"
+  },
+  {
+    "employer": {
+      "name": "Conform Gissing International",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-09-20",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 38,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/232"
+  },
+  {
+    "employer": {
+      "name": "Owens Corning Composite Materials",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-10-09",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 60,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/104"
+  },
+  {
+    "employer": {
+      "name": "Madison Paper Industries",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-03-14",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 210,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/49"
+  },
+  {
+    "employer": {
+      "name": "Olympia Sports Warehouse",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-10-29",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 75,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/243"
+  },
+  {
+    "employer": {
+      "name": "Lincoln Paper and Tissue",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-09-28",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 200,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/86"
+  },
+  {
+    "employer": {
+      "name": "Ledgeview Living Center",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2018-08-10",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 122,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/149"
+  },
+  {
+    "employer": {
+      "name": "Covenant Health",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-07-31",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 73,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/221"
+  },
+  {
+    "employer": {
+      "name": "Verso Paper",
+      "address": null
+    },
+    "location": {
+      "street": "2 River Rd",
+      "municipality": "Bucksport",
+      "state": "me",
+      "zip": "04416"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2014-10-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 500,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/52"
+  },
+  {
+    "employer": {
+      "name": "Sitel",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-07-16",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 94,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/217"
+  },
+  {
+    "employer": {
+      "name": "CIEE",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-27",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 256,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/289"
+  },
+  {
+    "employer": {
+      "name": "Whitecraft Scarborough Tempe",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-30",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 125,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/295"
+  },
+  {
+    "employer": {
+      "name": "Enterprise Holding Group",
+      "address": null
+    },
+    "location": {
+      "street": "140 Larrabee Road",
+      "municipality": "Westbrook",
+      "state": "me",
+      "zip": "04092"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-20",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 63,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/297"
+  },
+  {
+    "employer": {
+      "name": "Eat'n Park Hospitality Group Inc",
+      "address": null
+    },
+    "location": {
+      "street": "11 Hills Beach Rd",
+      "municipality": "Biddeford",
+      "state": "me",
+      "zip": "04005"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-17",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 148,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/290"
+  },
+  {
+    "employer": {
+      "name": "HH Brown Retail Store/Super Shoes",
+      "address": null
+    },
+    "location": {
+      "street": "930 Stillwater Avenue",
+      "municipality": "Bangor",
+      "state": "me",
+      "zip": "04401"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-24",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 8,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/301"
+  },
+  {
+    "employer": {
+      "name": "Huhtamaki, Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-20",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 102,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/282"
+  },
+  {
+    "employer": {
+      "name": "Sweetser",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-10",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 10,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/285"
+  },
+  {
+    "employer": {
+      "name": "HH Brown Retail Store/Super Shoes",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-24",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/304"
+  },
+  {
+    "employer": {
+      "name": "Home Care for Maine",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-01-30",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 366,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/256"
+  },
+  {
+    "employer": {
+      "name": "Tasman",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-04",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 115,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/296"
+  },
+  {
+    "employer": {
+      "name": "EVO Merchant Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-01-07",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 139,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/250"
+  },
+  {
+    "employer": {
+      "name": "JS McCarthy Printers",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-26",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 61,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/284"
+  },
+  {
+    "employer": {
+      "name": "HH Brown Shoe Co., Inc.",
+      "address": null
+    },
+    "location": {
+      "street": "71 Railroad Avenue",
+      "municipality": "Dexter",
+      "state": "me",
+      "zip": "04930"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 10,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/294"
+  },
+  {
+    "employer": {
+      "name": "HH Brown Retail Store/Super Shoes",
+      "address": null
+    },
+    "location": {
+      "street": "364 Maine Mall Road",
+      "municipality": "South Portland",
+      "state": "me",
+      "zip": "04106"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-24",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 10,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/299"
+  },
+  {
+    "employer": {
+      "name": "Gissing",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-25",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 84,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/283"
+  },
+  {
+    "employer": {
+      "name": "Chadwick-BaRoss",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-04",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 16,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/298"
+  },
+  {
+    "employer": {
+      "name": "Bed, Bath & Beyond",
+      "address": null
+    },
+    "location": {
+      "street": "490 Payne Road",
+      "municipality": "Scarborough",
+      "state": "me",
+      "zip": "04074"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-17",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 71,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/291"
+  },
+  {
+    "employer": {
+      "name": "HH Brown Retail Store/Super Shoes",
+      "address": null
+    },
+    "location": {
+      "street": "1 Washington Street",
+      "municipality": "Waterville",
+      "state": "me",
+      "zip": "04901"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-24",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 11,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/305"
+  },
+  {
+    "employer": {
+      "name": "HH Brown Retail Store/Super Shoes",
+      "address": null
+    },
+    "location": {
+      "street": "550 Center Street",
+      "municipality": "Auburn",
+      "state": "me",
+      "zip": "04210"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-24",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 11,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/300"
+  },
+  {
+    "employer": {
+      "name": "Bed, Bath & Beyond",
+      "address": null
+    },
+    "location": {
+      "street": "46 Spring Drive",
+      "municipality": "Bangor",
+      "state": "me",
+      "zip": "04401"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-17",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 56,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/293"
+  },
+  {
+    "employer": {
+      "name": "HH Brown Retail Store/Super Shoes",
+      "address": null
+    },
+    "location": {
+      "street": "446 High Street",
+      "municipality": "Ellsworth",
+      "state": "me",
+      "zip": "04605"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-24",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 5,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/302"
+  },
+  {
+    "employer": {
+      "name": "HH Brown Retail Store/Super Shoes",
+      "address": null
+    },
+    "location": {
+      "street": "1070 Commercial Street",
+      "municipality": "Rockport",
+      "state": "me",
+      "zip": "04856"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-24",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 5,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/303"
+  },
+  {
+    "employer": {
+      "name": "HMS Host",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-21",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 60,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/281"
+  },
+  {
+    "employer": {
+      "name": "Bed, Bath & Beyond",
+      "address": null
+    },
+    "location": {
+      "street": "42 Whitten Road",
+      "municipality": "Augusta",
+      "state": "me",
+      "zip": "04330"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-17",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 46,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/292"
+  },
+  {
+    "employer": {
+      "name": "Sweetser",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 22,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/311"
+  },
+  {
+    "employer": {
+      "name": "Yellow Corporation",
+      "address": null
+    },
+    "location": {
+      "street": "44 Sheridan Dr",
+      "municipality": "Fairfield",
+      "state": "me",
+      "zip": "04937"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-07-30",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 13,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/506"
+  },
+  {
+    "employer": {
+      "name": "Thriveworks Counseling & Psychiatry",
+      "address": null
+    },
+    "location": {
+      "street": "550 Forest Ave #201",
+      "municipality": "Portland",
+      "state": "me",
+      "zip": "04101"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-09-25",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 1,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/527"
+  },
+  {
+    "employer": {
+      "name": "Yellow Corporation",
+      "address": null
+    },
+    "location": {
+      "street": "75 Eisenhower Dr",
+      "municipality": "Westbrook",
+      "state": "me",
+      "zip": "04092"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-07-30",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 16,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/505"
+  },
+  {
+    "employer": {
+      "name": "Aerotek (Abbott)",
+      "address": null
+    },
+    "location": {
+      "street": "949 Brighton Avenue",
+      "municipality": "Portland",
+      "state": "me",
+      "zip": "04102"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-02-07",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 234,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/457"
+  },
+  {
+    "employer": {
+      "name": "Pixelle Speciality Solutions",
+      "address": null
+    },
+    "location": {
+      "street": "300 Riley Road",
+      "municipality": "Jay",
+      "state": "me",
+      "zip": "04239"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-09-30",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 230,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/444"
+  },
+  {
+    "employer": {
+      "name": "HMS Host",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-08-17",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 64,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/335"
+  },
+  {
+    "employer": {
+      "name": "B&M Beans",
+      "address": null
+    },
+    "location": {
+      "street": "1 Beanpot Circle",
+      "municipality": "Portland",
+      "state": "me",
+      "zip": "04103"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-08-30",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 86,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/389"
+  },
+  {
+    "employer": {
+      "name": "Puritan Medical Products",
+      "address": null
+    },
+    "location": {
+      "street": "North Main Street",
+      "municipality": "Pittsfield",
+      "state": "me",
+      "zip": "04967"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-06-28",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 254,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/471"
+  },
+  {
+    "employer": {
+      "name": "David's Bridal",
+      "address": null
+    },
+    "location": {
+      "street": "374 Maine Mall Rd",
+      "municipality": "South Portland",
+      "state": "me",
+      "zip": "04106"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-04-14",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 0,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/469"
+  },
+  {
+    "employer": {
+      "name": "White Barn Inn",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-31",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 43,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/313"
+  },
+  {
+    "employer": {
+      "name": "Abbott Rapid Diagnostics",
+      "address": null
+    },
+    "location": {
+      "street": "5 bradley dr",
+      "municipality": "Westbrook",
+      "state": "me",
+      "zip": "04092"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-05-16",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 199,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/486"
+  },
+  {
+    "employer": {
+      "name": "Abbott Laboratories",
+      "address": null
+    },
+    "location": {
+      "street": "5 Bradley Rd",
+      "municipality": "Westbrook",
+      "state": "me",
+      "zip": "04092"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-07-07",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 310,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/383"
+  },
+  {
+    "employer": {
+      "name": "First Savings Bank",
+      "address": null
+    },
+    "location": {
+      "street": "702 North Shore Dr",
+      "municipality": "Jeffersonville",
+      "state": "me",
+      "zip": "47130"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-10-06",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 1,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/530"
+  },
+  {
+    "employer": {
+      "name": "Pixelle Specialty Solutions",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-10-30",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 67,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/355"
+  },
+  {
+    "employer": {
+      "name": "Abbott Rapid Diagnostics",
+      "address": null
+    },
+    "location": {
+      "street": "5 Bradley Rd",
+      "municipality": "Westbrook",
+      "state": "me",
+      "zip": "04092"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-03-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 219,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/489"
+  },
+  {
+    "employer": {
+      "name": "Bitwise Industries",
+      "address": null
+    },
+    "location": {
+      "street": "70 Van Ness Ave",
+      "municipality": "Fresno",
+      "state": "me",
+      "zip": "93721"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-06-14",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 1,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/496"
+  },
+  {
+    "employer": {
+      "name": "Pixelle",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-09-28",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 51,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/347"
+  },
+  {
+    "employer": {
+      "name": "Stanley Black and Decker",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-09-18",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 105,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/359"
+  },
+  {
+    "employer": {
+      "name": "HMS Host",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-20",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 240,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/317"
+  },
+  {
+    "employer": {
+      "name": "ND Paper Old Town",
+      "address": null
+    },
+    "location": {
+      "street": "24 Portland St",
+      "municipality": "Old Town",
+      "state": "me",
+      "zip": "04468"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-03-30",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 0,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/465"
+  },
+  {
+    "employer": {
+      "name": "Sweetser",
+      "address": null
+    },
+    "location": {
+      "street": "50 Moody Street",
+      "municipality": "Saco",
+      "state": "me",
+      "zip": "04072"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-07-11",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 139,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/432"
+  },
+  {
+    "employer": {
+      "name": "Pixelle Specialty Solutions",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-07-14",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 59,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/323"
+  },
+  {
+    "employer": {
+      "name": "Yelloh!",
+      "address": null
+    },
+    "location": {
+      "street": "5 Hutcherson Dr",
+      "municipality": "Gorham",
+      "state": "me",
+      "zip": "04038"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-11-29",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 4,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/543"
+  },
+  {
+    "employer": {
+      "name": "Pratt & Whitney",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-06-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 100,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/315"
+  },
+  {
+    "employer": {
+      "name": "Hollywood Casino Hotel & Raceway",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "me",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-06-15",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 121,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/314"
+  },
+  {
+    "employer": {
+      "name": "Bon Appetit",
+      "address": null
+    },
+    "location": {
+      "street": "4769 Mayflower Hill",
+      "municipality": "Waterville",
+      "state": "me",
+      "zip": "04901"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-04-10",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 187,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/629"
+  },
+  {
+    "employer": {
+      "name": "Dragon Cement",
+      "address": null
+    },
+    "location": {
+      "street": "107 New County Rd",
+      "municipality": "Thomaston",
+      "state": "me",
+      "zip": "04861"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-09-06",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 30,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/513"
+  },
+  {
+    "employer": {
+      "name": "Pride Manufacturing -gathr Outdoors",
+      "address": null
+    },
+    "location": {
+      "street": "10 North Main Street",
+      "municipality": "Burnham",
+      "state": "me",
+      "zip": "04922"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-13",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 115,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/651"
+  },
+  {
+    "employer": {
+      "name": "Northern Light - Inland Hospital",
+      "address": null
+    },
+    "location": {
+      "street": "200 KMD",
+      "municipality": "Waterville",
+      "state": "me",
+      "zip": "04901"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-03-25",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 50,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/624"
+  },
+  {
+    "employer": {
+      "name": "Charter Communications",
+      "address": null
+    },
+    "location": {
+      "street": "901 Washington Ave",
+      "municipality": "Portland",
+      "state": "me",
+      "zip": "04103"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-12-10",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 176,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/645"
+  },
+  {
+    "employer": {
+      "name": "Loring Job Corps Center",
+      "address": null
+    },
+    "location": {
+      "street": "36 Montana Rd",
+      "municipality": "Limestone",
+      "state": "me",
+      "zip": "04750"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-06-03",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 114,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/635"
+  },
+  {
+    "employer": {
+      "name": "Onsemi",
+      "address": null
+    },
+    "location": {
+      "street": "Running Hill rd",
+      "municipality": "South Portland",
+      "state": "me",
+      "zip": "04106"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-06-13",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 53,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/575"
+  },
+  {
+    "employer": {
+      "name": "Sonoco",
+      "address": null
+    },
+    "location": {
+      "street": "16 Washington St",
+      "municipality": "Scarborough",
+      "state": "me",
+      "zip": "04074"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-03-13",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 67,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/626"
+  },
+  {
+    "employer": {
+      "name": "Trans Axle",
+      "address": null
+    },
+    "location": {
+      "street": "8 Scott Drive",
+      "municipality": "Westbrook",
+      "state": "me",
+      "zip": "04092"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-05-16",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 18,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/633"
+  },
+  {
+    "employer": {
+      "name": "US Cellular",
+      "address": null
+    },
+    "location": {
+      "street": "4058 Minnesota Ave, NE, Ste 3001",
+      "municipality": "Washington",
+      "state": "me",
+      "zip": "20019"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-04-07",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 20,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/628"
+  },
+  {
+    "employer": {
+      "name": "Yelloh!",
+      "address": null
+    },
+    "location": {
+      "street": "2000 Odlin Road",
+      "municipality": "Hermon",
+      "state": "me",
+      "zip": "04401"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-09-23",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 14,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/588"
+  },
+  {
+    "employer": {
+      "name": "Parker Hannifin",
+      "address": null
+    },
+    "location": {
+      "street": "9 Cutts Rd",
+      "municipality": "Kittery",
+      "state": "me",
+      "zip": "03904"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-04-22",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 48,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/568"
+  },
+  {
+    "employer": {
+      "name": "Vimo dba GetInsured",
+      "address": null
+    },
+    "location": {
+      "street": "45 commerce drive",
+      "municipality": "Augusta",
+      "state": "me",
+      "zip": "04333"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-12-27",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 1,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/606"
+  },
+  {
+    "employer": {
+      "name": "Spurwink",
+      "address": null
+    },
+    "location": {
+      "street": "5 Leo Martin Dr",
+      "municipality": "Augusta",
+      "state": "me",
+      "zip": "04330"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-04-26",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 61,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/570"
+  },
+  {
+    "employer": {
+      "name": "SMBC-Sumitomo Mitsui Banking Corporation",
+      "address": null
+    },
+    "location": {
+      "street": "277 Park Avenue",
+      "municipality": "New York",
+      "state": "me",
+      "zip": "10172"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-13",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 1,
+    "notes": null,
+    "link": "https://joblink.maine.gov/search/warn_lookups/649"
+  }
+]

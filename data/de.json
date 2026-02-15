@@ -1,0 +1,302 @@
+[
+  {
+    "employer": {
+      "name": "Mundy Services",
+      "address": null
+    },
+    "location": {
+      "street": "25896 DuPont Road",
+      "municipality": null,
+      "state": "de",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2008-11-06",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 227,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/5"
+  },
+  {
+    "employer": {
+      "name": "AllState Technical Services",
+      "address": null
+    },
+    "location": {
+      "street": "1900 International Park Drive",
+      "municipality": "Birmingham",
+      "state": "de",
+      "zip": "35243"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-06-05",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 34,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/18"
+  },
+  {
+    "employer": {
+      "name": "Chemours",
+      "address": null
+    },
+    "location": {
+      "street": "Chestnut Run Plaza",
+      "municipality": "974 Centre Road",
+      "state": "de",
+      "zip": "19805"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-07-06",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 131,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/48"
+  },
+  {
+    "employer": {
+      "name": "Plow & Hearth",
+      "address": null
+    },
+    "location": {
+      "street": "1307 Churchmans Road, Ste A",
+      "municipality": "Newark",
+      "state": "de",
+      "zip": "19713"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-09-16",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 10,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/70"
+  },
+  {
+    "employer": {
+      "name": "Fresh Grocer - Adams Market, LLC",
+      "address": null
+    },
+    "location": {
+      "street": "800 W. Fourth Street",
+      "municipality": "Wilmington",
+      "state": "de",
+      "zip": "19801"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-10-23",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 80,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/71"
+  },
+  {
+    "employer": {
+      "name": "HMShost - Biden Welcome Center",
+      "address": null
+    },
+    "location": {
+      "street": "530 JFK MemorialHwy",
+      "municipality": "Newark",
+      "state": "de",
+      "zip": "19725"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-20",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 267,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/82"
+  },
+  {
+    "employer": {
+      "name": "Packers Sanitation Services, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": "3681 Prism Lane",
+      "municipality": "Kieler",
+      "state": "de",
+      "zip": "53812"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-19",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 99,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/91"
+  },
+  {
+    "employer": {
+      "name": "IKO Wilmington Plant",
+      "address": null
+    },
+    "location": {
+      "street": "120 Hay Rd.",
+      "municipality": "Wilmington",
+      "state": "de",
+      "zip": "19809"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-01-12",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 67,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/100"
+  },
+  {
+    "employer": {
+      "name": "Quality Built LLC",
+      "address": null
+    },
+    "location": {
+      "street": "633 S. Andrews Ave",
+      "municipality": "Fort Lauderdale",
+      "state": "de",
+      "zip": "33301"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-07-07",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 2,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/109"
+  },
+  {
+    "employer": {
+      "name": "Wesley College",
+      "address": null
+    },
+    "location": {
+      "street": "120 North State Street",
+      "municipality": "Dover",
+      "state": "de",
+      "zip": "19901"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-04-15",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 62,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/102"
+  },
+  {
+    "employer": {
+      "name": "Aramark Educational Services@DSU",
+      "address": null
+    },
+    "location": {
+      "street": "1200 N. DuPont Highway",
+      "municipality": "Dover",
+      "state": "de",
+      "zip": "19901"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-06-24",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 132,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/103"
+  },
+  {
+    "employer": {
+      "name": "Zenith Home Corp.",
+      "address": null
+    },
+    "location": {
+      "street": "499 Ships Landing Way. New Castle, DE 19720",
+      "municipality": "New Castle",
+      "state": "de",
+      "zip": "19720"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-12-13",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 91,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/105"
+  },
+  {
+    "employer": {
+      "name": "ILC Dover",
+      "address": null
+    },
+    "location": {
+      "street": "1 Moonwalker Rd",
+      "municipality": "Frederica",
+      "state": "de",
+      "zip": "19946"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-04-26",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 41,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/106"
+  },
+  {
+    "employer": {
+      "name": "Centurion of Delaware, LLC",
+      "address": null
+    },
+    "location": {
+      "street": "841 Silver Lake Blvd., Suite 205",
+      "municipality": "Dover",
+      "state": "de",
+      "zip": "19904"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-05-09",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 572,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/107"
+  },
+  {
+    "employer": {
+      "name": "Harrington Logistics, LLC",
+      "address": null
+    },
+    "location": {
+      "street": "111 Reese Ave",
+      "municipality": "Harrington",
+      "state": "de",
+      "zip": "19952"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-03-31",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 151,
+    "notes": null,
+    "link": "https://joblink.delaware.gov/search/warn_lookups/108"
+  }
+]

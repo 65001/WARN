@@ -1,0 +1,1182 @@
+[
+  {
+    "employer": {
+      "name": "T. Rowe Price",
+      "address": null
+    },
+    "location": {
+      "street": "1307 Point Street Baltimore, MD 21231",
+      "municipality": "Baltimore City",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-02-12",
+    "layoff_date": "2026-02-06",
+    "type": "PermanentLayoff",
+    "impacted": 54,
+    "notes": "Mass Layoff - No Recall",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Savage Infrastructure LLC",
+      "address": null
+    },
+    "location": {
+      "street": "354 Table Rock Road Oakland, MD 21550",
+      "municipality": "Western Maryland",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-02-09",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": 72,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "LifeBridge Suburban Staffing, LLC",
+      "address": null
+    },
+    "location": {
+      "street": "2850 N. Ridge Road Ellicott City, MD",
+      "municipality": "Howard County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-02-06",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": 23,
+    "notes": "Plant Closure Note: Work performed at Ellicott City Ambulatory Surgery Center, L.L.L.P)",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "NFI Interactive Technologies, LLC (NFI)",
+      "address": null
+    },
+    "location": {
+      "street": "81 Belvedere Road Perryville, MD 21903",
+      "municipality": "Susquehanna",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-02-04",
+    "layoff_date": "2026-03-30",
+    "type": "Closure",
+    "impacted": 40,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "HGS CX Technologies, Inc. f/k/a HGS USA",
+      "address": null
+    },
+    "location": {
+      "street": "12120 Rojas Drive El Paso, Texas",
+      "municipality": "Statewide",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-02-04",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": 92,
+    "notes": "Mass Layoff - No Recall",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Charles River Laboratories, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": "3600 Cabover Drive Hanover MD 21076",
+      "municipality": "Anne Arundel County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-02-02",
+    "layoff_date": "2026-03-23",
+    "type": "Closure",
+    "impacted": 20,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "MUFG Investor Services (US), LLC (MUIS)",
+      "address": null
+    },
+    "location": {
+      "street": "805 King Farm Boulevard, Suite 600 Rockville,MD 20850",
+      "municipality": "Montgomery County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-30",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": 86,
+    "notes": "Mass Layoff - No Recall",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Saks & Company LLC",
+      "address": null
+    },
+    "location": {
+      "street": "22705 Clarksburg Road Clarksburg, MD 20871",
+      "municipality": "Montgomery County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-29",
+    "layoff_date": "2026-04-30",
+    "type": "Closure",
+    "impacted": 15,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Saks & Company LLC",
+      "address": null
+    },
+    "location": {
+      "street": "7000 Arundel Mills Circle Hanover, MD 21076",
+      "municipality": "Anne Arundel County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-29",
+    "layoff_date": "2026-04-30",
+    "type": "Closure",
+    "impacted": 16,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amazon - MAF1 facility",
+      "address": null
+    },
+    "location": {
+      "street": "5463 Wisconsin Ave. Chevy Chase, MD 20815",
+      "municipality": "Montgomery County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-28",
+    "layoff_date": "2026-04-28",
+    "type": "Closure",
+    "impacted": 129,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amazon - MAG5 facility",
+      "address": null
+    },
+    "location": {
+      "street": "8525 Chevy Chase Lake Terrace Chevy Chase, MD 20815",
+      "municipality": "Montgomery County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-28",
+    "layoff_date": "2026-04-28",
+    "type": "Closure",
+    "impacted": 118,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amazon - MAH5 facility",
+      "address": null
+    },
+    "location": {
+      "street": "15790 Shady Grove Road Gaithersburg, MD 20877",
+      "municipality": "Montgomery County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-28",
+    "layoff_date": "2026-04-28",
+    "type": "Closure",
+    "impacted": 155,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amazon - MAT8 facility",
+      "address": null
+    },
+    "location": {
+      "street": "6711 Ritchie Highway Glen Burnie, MD 21061",
+      "municipality": "Anne Arundel County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-28",
+    "layoff_date": "2026-04-28",
+    "type": "Closure",
+    "impacted": 156,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amazon - MAV2 facility",
+      "address": null
+    },
+    "location": {
+      "street": "12263 Prosperity Drive Silver Spring, MD 20904",
+      "municipality": "Montgomery County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-28",
+    "layoff_date": "2026-04-28",
+    "type": "Closure",
+    "impacted": 184,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Weis Store #291",
+      "address": null
+    },
+    "location": {
+      "street": "15300 McMullen Highway Cumberland, MD 21502",
+      "municipality": "Western Maryland",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-15",
+    "layoff_date": "2026-03-16",
+    "type": "Closure",
+    "impacted": 52,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Home Depot Design Center",
+      "address": null
+    },
+    "location": {
+      "street": "12087 Rockville Pike Rockville, MD 20852",
+      "municipality": "Montgomery County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-14",
+    "layoff_date": "2026-03-14",
+    "type": "Closure",
+    "impacted": 85,
+    "notes": "Plant Closure",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Peraton",
+      "address": null
+    },
+    "location": {
+      "street": "6201 Security Blvd Woodlawn, MD 21207",
+      "municipality": "Baltimore County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-14",
+    "layoff_date": "2026-02-28",
+    "type": "PermanentLayoff",
+    "impacted": 35,
+    "notes": "Mass Layoff - No Recall",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "BAE Systems, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": "306 Sentinel Drive, Suite 500, Annapolis Junction, MD 20701",
+      "municipality": "Anne Arundel County",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-02",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": 55,
+    "notes": "Mass Layoff - No Recall",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Marada Industries, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": "Westminster",
+      "municipality": "6",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-01-07",
+    "layoff_date": "2010-03-09",
+    "type": null,
+    "impacted": 117,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ARAMARK Management Services University of Maryland Medical System",
+      "address": null
+    },
+    "location": {
+      "street": "Baltimore City",
+      "municipality": "3",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-01-18",
+    "layoff_date": "2010-04-12",
+    "type": null,
+    "impacted": 411,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ARAMARK Management Services University Specialty Hospital",
+      "address": null
+    },
+    "location": {
+      "street": "Baltimore City",
+      "municipality": "3",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-01-18",
+    "layoff_date": "2010-04-12",
+    "type": null,
+    "impacted": 43,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Prime Retail Management",
+      "address": null
+    },
+    "location": {
+      "street": "Baltimore City",
+      "municipality": "3",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-01-20",
+    "layoff_date": "2010-03-15",
+    "type": null,
+    "impacted": null,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Wackenhut Services Inc.",
+      "address": null
+    },
+    "location": {
+      "street": "Columbia",
+      "municipality": "6",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-03-01",
+    "layoff_date": "2010-04-30",
+    "type": null,
+    "impacted": 5,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sears Holdings",
+      "address": null
+    },
+    "location": {
+      "street": "Columbia",
+      "municipality": "6",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-03-05",
+    "layoff_date": "2010-03-15",
+    "type": null,
+    "impacted": 101,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "General Dynamics",
+      "address": null
+    },
+    "location": {
+      "street": "Westminster",
+      "municipality": "6",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-03-08",
+    "layoff_date": "2010-03-08",
+    "type": null,
+    "impacted": 80,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Capital One Bank",
+      "address": null
+    },
+    "location": {
+      "street": "Laurel",
+      "municipality": "8",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-03-09",
+    "layoff_date": "2010-07-01",
+    "type": null,
+    "impacted": 179,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Northrop Grumman",
+      "address": null
+    },
+    "location": {
+      "street": "Hagerstown",
+      "municipality": "12",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-03-11",
+    "layoff_date": "2010-05-09",
+    "type": null,
+    "impacted": 174,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "BP Solar",
+      "address": null
+    },
+    "location": {
+      "street": "Frederick",
+      "municipality": "4",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-03-26",
+    "layoff_date": "2010-06-30",
+    "type": null,
+    "impacted": 323,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Office Depot",
+      "address": null
+    },
+    "location": {
+      "street": "Odenton",
+      "municipality": "1",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-04-15",
+    "layoff_date": "2010-06-18",
+    "type": null,
+    "impacted": 132,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Pitney Bowes Government Services Inc.",
+      "address": null
+    },
+    "location": {
+      "street": "Rockville and Landover",
+      "municipality": "7 & 8",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-04-21",
+    "layoff_date": "2010-04-30",
+    "type": null,
+    "impacted": 21,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Science Applications International Corporation",
+      "address": null
+    },
+    "location": {
+      "street": "Camp Springs",
+      "municipality": "8",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-04-27",
+    "layoff_date": "2010-06-28",
+    "type": null,
+    "impacted": 82,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amports",
+      "address": null
+    },
+    "location": {
+      "street": "Baltimore",
+      "municipality": "3",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-04-30",
+    "layoff_date": "2010-07-01",
+    "type": null,
+    "impacted": 116,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Capital One Bank",
+      "address": null
+    },
+    "location": {
+      "street": "6151 Chevy Chase Drive, Laurel, MD",
+      "municipality": "8",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-05-11",
+    "layoff_date": "2010-11-05",
+    "type": null,
+    "impacted": 134,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Capital One Bank",
+      "address": null
+    },
+    "location": {
+      "street": "7501 Wisconsin Ave., Bethesda, MD",
+      "municipality": "7",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-05-11",
+    "layoff_date": "2010-09-17",
+    "type": null,
+    "impacted": 68,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "General Dynamics Land Systems",
+      "address": null
+    },
+    "location": {
+      "street": "1231 Tech Court, Westminster, MD",
+      "municipality": "6",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-05-18",
+    "layoff_date": "2010-07-16",
+    "type": null,
+    "impacted": 31,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hanger Orthopedic Group Inc.",
+      "address": null
+    },
+    "location": {
+      "street": "2 Bethesda Metro Center, Bethesda MD",
+      "municipality": "7",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-05-25",
+    "layoff_date": "2010-08-31",
+    "type": null,
+    "impacted": 77,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Legg Mason",
+      "address": null
+    },
+    "location": {
+      "street": "11155 Red Run Blvd., Owings Mills, MD",
+      "municipality": "2",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-06-03",
+    "layoff_date": "2011-07-01",
+    "type": null,
+    "impacted": 141,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ESPN Zone",
+      "address": null
+    },
+    "location": {
+      "street": "601 East Pratt St. Baltimore, MD",
+      "municipality": "3",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-06-16",
+    "layoff_date": "2010-08-15",
+    "type": null,
+    "impacted": 161,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Northrop Grumman",
+      "address": null
+    },
+    "location": {
+      "street": "18450 Showalter Road, Hagerstown, MD",
+      "municipality": "12",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-06-28",
+    "layoff_date": "2010-08-16",
+    "type": null,
+    "impacted": 59,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Prime Retail",
+      "address": null
+    },
+    "location": {
+      "street": "217 E. Redwood St., 20th Floor, Baltimore, MD",
+      "municipality": "3",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-07-07",
+    "layoff_date": "2010-09-05",
+    "type": null,
+    "impacted": 44,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Wackenhut Services Incorporated",
+      "address": null
+    },
+    "location": {
+      "street": "P.O. Box 700, Suitland, MD",
+      "municipality": "8 & 9",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-07-19",
+    "layoff_date": "2010-09-30",
+    "type": null,
+    "impacted": 82,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "JP Morgan Chase",
+      "address": null
+    },
+    "location": {
+      "street": "5202 Presidents Court, Frederick, MD",
+      "municipality": "4",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-07-27",
+    "layoff_date": "2010-09-27",
+    "type": null,
+    "impacted": 561,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Solo Cup Company",
+      "address": null
+    },
+    "location": {
+      "street": "10100 Reisterstown Road, Owing Mills",
+      "municipality": "2",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-07-29",
+    "layoff_date": "2010-10-03",
+    "type": null,
+    "impacted": 551,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Bank of America",
+      "address": null
+    },
+    "location": {
+      "street": "11333 McCormick Road, Hunt Valley",
+      "municipality": "2",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-07-30",
+    "layoff_date": "2010-09-20",
+    "type": null,
+    "impacted": 50,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Ravenwood Healthcare, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": "501 West Franklin Street, Baltimore",
+      "municipality": "3",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-08-04",
+    "layoff_date": "2010-08-03",
+    "type": null,
+    "impacted": null,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Apex Tool Group",
+      "address": null
+    },
+    "location": {
+      "street": "7200 Standard Drive, Hanover, MD",
+      "municipality": "1",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-08-11",
+    "layoff_date": "2010-10-11",
+    "type": null,
+    "impacted": 106,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Kongsberg Automotive",
+      "address": null
+    },
+    "location": {
+      "street": "101 Western Maryland Parkway, Hagerstown, MD",
+      "municipality": "12",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-08-13",
+    "layoff_date": "2010-10-31",
+    "type": null,
+    "impacted": 63,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Aramark @ Oriole Park at Camden Yards",
+      "address": null
+    },
+    "location": {
+      "street": "555 Russell Street, Suite B, Baltimore, MD",
+      "municipality": "1",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-08-31",
+    "layoff_date": "2010-10-13",
+    "type": null,
+    "impacted": 613,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "General Dynamics",
+      "address": null
+    },
+    "location": {
+      "street": "1231 Tech Court, Westminster, MD",
+      "municipality": "6",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-08-31",
+    "layoff_date": "2010-10-29",
+    "type": null,
+    "impacted": 132,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Redland Brick",
+      "address": null
+    },
+    "location": {
+      "street": "15718 Clear Spring Road, Williamsport, MD",
+      "municipality": "12",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-09-17",
+    "layoff_date": "2010-11-22",
+    "type": "TemporaryLayoff",
+    "impacted": 60,
+    "notes": "2  Temporary",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Kop-Flex/Emerson Power Transmission",
+      "address": null
+    },
+    "location": {
+      "street": "7565 Harmans Road, Hanover, MD",
+      "municipality": "1",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-10-04",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 110,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Homestead Publishing",
+      "address": null
+    },
+    "location": {
+      "street": "10 N. Hays Street, Bel Air, MD",
+      "municipality": "10",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-10-06",
+    "layoff_date": "2010-12-10",
+    "type": null,
+    "impacted": 52,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Principal Financial Group",
+      "address": null
+    },
+    "location": {
+      "street": "7125 Thomas Edison Dr., Suite 210, Columbia, MD",
+      "municipality": "6",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-10-11",
+    "layoff_date": "2010-12-10",
+    "type": null,
+    "impacted": 2,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Baxter Healthcare Corporation",
+      "address": null
+    },
+    "location": {
+      "street": "12140 Indian Creek Court, Beltsville, MD",
+      "municipality": "8",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-10-15",
+    "layoff_date": "2010-12-15",
+    "type": null,
+    "impacted": 106,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ARAMARK Educational Services LLC",
+      "address": null
+    },
+    "location": {
+      "street": "8000 York Road, Towson, MD",
+      "municipality": "2",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": "2010-12-31",
+    "type": null,
+    "impacted": 84,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Severstal International",
+      "address": null
+    },
+    "location": {
+      "street": "1430 Sparrows Point Boulevard, Sparrows Point, MD",
+      "municipality": "2",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-11-04",
+    "layoff_date": "2010-12-31",
+    "type": "TemporaryLayoff",
+    "impacted": 1012,
+    "notes": "2  NOTE:  Currently a temporary  lay-off  situation",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ZipRealty",
+      "address": null
+    },
+    "location": {
+      "street": "1122 Kenilworth Drive, Suite 217, Towson MD",
+      "municipality": "2",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-11-29",
+    "layoff_date": "2011-01-31",
+    "type": null,
+    "impacted": 75,
+    "notes": "2",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "LFC Agricultural Services, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": "9060 Crisfield Highway, Westover, MD",
+      "municipality": "5",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-12-02",
+    "layoff_date": "2011-02-01",
+    "type": null,
+    "impacted": 103,
+    "notes": "1",
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ProBuild",
+      "address": null
+    },
+    "location": {
+      "street": "11850 Pika Drive, Waldorf, MD",
+      "municipality": "9",
+      "state": "md",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-12-03",
+    "layoff_date": "2010-12-07",
+    "type": null,
+    "impacted": 27,
+    "notes": "1",
+    "link": null
+  }
+]

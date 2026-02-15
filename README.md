@@ -26,12 +26,12 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | [Alabama](https://www.madeinalabama.com/warn-list/) |   |  Working as of 2023-03-12. | 1999-2023 | |
 | [Alaska](https://jobs.alaska.gov/rr/WARN_notices.htm) | |  Working as of 2023-03-13. | 2006-2022 | ISO date not supported on the `layoff_date` field. |
 | American Samoa | |  Not Listed |
-| [Arizona](https://www.azjobconnection.gov/search/warn_lookups/new) | | American Jobs Center |
+| [Arizona](https://www.azjobconnection.gov/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | | American Jobs Center |
 | Arkansas | | Not Found |
 | [California](https://edd.ca.gov/en/jobs_and_training/Layoff_Services_WARN/) | |  XLSX for latest info (July 1 of last year to July 1st of the next year). PDF for the rest| 
 | [Colorado](https://cdle.colorado.gov/employers/layoff-separations/layoff-warn-list) | | Google Docs. Probably requires yearly changes. |
 | [Connecticut](https://www.ctdol.state.ct.us/progsupt/bussrvce/warnreports/warnreports.htm) | |  Working as of 2023-04-11. | 2015-2023 | ISO date not supported on the `layoff_date` field. |
-| [Delaware](https://joblink.delaware.gov/search/warn_lookups/new) | |American Jobs Center |
+| [Delaware](https://joblink.delaware.gov/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | |American Jobs Center |
 | [District of Columbia](https://does.dc.gov/page/industry-closings-and-layoffs-warn-notifications-2023) | | Requires a web scraper. |
 | [Florida](https://floridajobs.org/office-directory/division-of-workforce-services/workforce-programs/reemployment-and-emergency-assistance-coordination-team-react/warn-notices) | |  Requires a web scraper. Slow. Links to the PDF of the actual Notice.|
 | [Georgia](https://www.tcsg.edu/worksource/rapid-response/) | | |
@@ -44,7 +44,7 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | [Kansas](https://www.kansascommerce.gov/program/workforce-services/warn/) | | AmericanJobCenter |
 | [Kentucky](https://kcc.ky.gov/Pages/News.aspx) | | Scarper for XLSX link changing. |
 | Louisiana | | Not Found |
-| [Maine](https://joblink.maine.gov/search/warn_lookups/new) | | American Jobs Center |
+| [Maine](https://joblink.maine.gov/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | | American Jobs Center |
 | [Maryland](https://www.dllr.state.md.us/employment/warn.shtml) | | Requires a Scraper |
 | [Massachusetts](https://www.mass.gov/service-details/worker-adjustment-and-retraining-act-warn-weekly-report) | | XLSX Weekly and FY. FOIA for Archives?|
 | [Michigan](https://www.michigan.gov/leo/bureaus-agencies/wd/data-public-notices/warn-notices) | | What the hell is this website. |
@@ -62,7 +62,7 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | North Dakota | | LNot Found|
 | Northern Mariana Islands | | Not Listed| 
 | [Ohio](https://jfs.ohio.gov/warn/) | | Scraper. Link |
-| [Oklahoma](https://okjobmatch.com/search/warn_lookups/new) | | American Jobs Center. |
+| [Oklahoma](https://www.employoklahoma.gov/Participants/s/warnnotices) | | American Jobs Center. |
 | [Oregon](https://www.oregon.gov/highered/institutions-programs/workforce/Pages/warn.aspx) | [Link](https://ccwd.hecc.oregon.gov/Layoff/WARN/Download) | XLSX. Requires Scraper to download (?) |
 | [Pennsylvania](https://www.dli.pa.gov/Individuals/Workforce-Development/warn/notices/Pages/default.aspx) | | Scraper. Why |
 | [Puerto Rico](https://www.ddec.pr.gov/en/workforce-development-program) | | |
@@ -70,12 +70,12 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | [South Carolina](https://scworks.org/employer/employer-programs/risk-closing/layoff-notification-reports) | | PDF |
 | [South Dakota](https://dlr.sd.gov/workforce_services/businesses/warn_notices.aspx) | | Link to Actual Notices|
 | [Tennessee](https://www.tn.gov/workforce/general-resources/major-publications0/major-publications-redirect/reports.html) | |Link to Actual Notices |
-| [Texas](https://www.twc.texas.gov/businesses/worker-adjustment-and-retraining-notification-warn-notices#warnNotices) | | XLSX |
+| [Texas](https://www.twc.texas.gov/data-reports/warn-notice) | | XLSX |
 | [Utah](https://jobs.utah.gov/employer/business/warnnotices.html) | | Scraper. American Jobs Network. |
 | U.S. Virgin Islands | | Not Listed | 
-| [Vermont](https://www.vermontjoblink.com/search/warn_lookups/new) | | Scraper. American Jobs Network. |
+| [Vermont](https://www.vermontjoblink.com/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | | Scraper. American Jobs Network. |
 | [Virginia](https://www.vec.virginia.gov/warn-notices)  | [Link](https://www.vec.virginia.gov/warn-notices-csv.csv?field_region_warn_tid=All&field_notice_date_value[min][date]=07%2F01%2F2000&field_notice_date_value[max][date]=06%2F01%2F2023)  | It seems that min and max dates can be set via url. CSV file. |
-| [Washington](https://esd.wa.gov/about-employees/WARN) | | Scraper. |
+| [Washington](https://fortress.wa.gov/esd/file/WARN/Public/SearchWARN.aspx) | | Scraper. |
 | [West Virginia](https://workforcewv.org/public-information/warn-notices/current-warn-notices) | | PDF |
 | [Wisconsin](https://dwd.wisconsin.gov/dislocatedworker/warn/) | | American Job Center. Scraper|
 | Wyoming | | Not Found |
@@ -85,17 +85,39 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 The law became effective on February 4, 1989, so jurisdictions should have data going back from then to now, but not all data has been digitized or is otherwise available on the internet. Under applicable open records laws we can ask states for historical records or information in other file formats. 
 
 ## Working JSON Schema Draft
-* Name and address (`street_address`, `municipality`) of the employment site where the plant closing or layoff will occur
-* Name (`official_name`) and telephone number (`official_phone`) of a company official to contact for further information
-* `type` - Statemenet as to whether the planned action is expected to be temporary `layoff`, and, if the entire plant is to be closed `closure`
-* `layoff_date` - The expected date for the first seperation
-* `warn_date` - The data of reciept of notice.
-* `first_seen` - The date this tool first saw this notice.
-* The anticipated schedule for making seperations
-* The job tiles of positions to be affected, and the 
-* `count` - number of affected employees in each job classification
-* Bumping rights `bumping` 
-* Union and the name `union_name` and address `union_address` of each union
-* `note` - Notes
-* `link` - Link to notice
-* `state` - State
+
+The standardized data format follows this structure:
+
+```json
+{
+  "employer": {
+    "name": "Company Name",
+    "address": {
+      "street": "123 Main St",
+      "municipality": "City",
+      "state": "ST",
+      "zip": "12345"
+    }
+  },
+  "location": {
+    "street": "456 Layoff site",
+    "municipality": "City",
+    "state": "ST",
+    "zip": "12345"
+  },
+  "union": {
+    "name": "Union Name",
+    "address": { ... }
+  },
+  "contact": {
+    "name": "John Doe",
+    "phone": "555-0199"
+  },
+  "warn_date": "YYYY-MM-DD",
+  "layoff_date": "YYYY-MM-DD",
+  "type": "Closure | PermanentLayoff | TemporaryLayoff",
+  "impacted": 123,
+  "notes": "Optional notes",
+  "link": "https://..."
+}
+```

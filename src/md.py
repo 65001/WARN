@@ -1,4 +1,7 @@
 import pandas as pd
+import json
+from src.models import WarnRecord, Employee, Address
+from src.utils import clean_impacted, derive_warn_type
 
 def parse(url):
     print('Visiting ' + url)
@@ -6,36 +9,49 @@ def parse(url):
     df = df[0]
 
     df = df.tail(-1) # The first row is headers
-    df = df.drop([1], axis=1)
-    df = df.rename(columns={0: "warn_date", 2: "company", 3: "street_address", 4: "municipality",5: "employees_impacted", 6: "layoff_date", 7: "note"})
+    # Rename columns to match our processing logic
+    df = df.rename(columns={0: "warn_date", 2: "company", 3: "street_address", 4: "municipality", 5: "employees_impacted", 6: "layoff_date", 7: "note"})
+    df = df[["warn_date", "company", "street_address", "municipality", "employees_impacted", "layoff_date", "note"]]
     df['state'] = 'md'
 
-    df['warn_date'] = df['warn_date'].str.rstrip('*')
-    df['warn_date'] = pd.to_datetime(df['warn_date'])
-    df['warn_date'] = df['warn_date'].dt.strftime('%Y-%m-%d')
+    records = []
+    for _, row in df.iterrows():
+        try:
+            # Handle potential NaN in company
+            company_name = str(row['company']) if pd.notna(row['company']) else None
+            if not company_name or company_name == "NO WARNS REPORTED":
+                continue
 
-    df['layoff_date'] = df['layoff_date'].str.rstrip('*')
-    df['layoff_date'] = pd.to_datetime(df['layoff_date'])
-    df['layoff_date'] = df['layoff_date'].dt.strftime('%Y-%m-%d')
-    print(df)
-    return df
+            warn_date = pd.to_datetime(row['warn_date'], errors='coerce')
+            layoff_date = pd.to_datetime(row['layoff_date'], errors='coerce')
 
-def archive_parse_2010(url):
-    print('Visiting ' + url)
-    df = pd.read_html(url)
-    df = df[0]
+            record = WarnRecord(
+                employer=Employee(name=company_name),
+                location=Address(
+                    street=str(row['street_address']) if pd.notna(row['street_address']) else None,
+                    municipality=str(row['municipality']) if pd.notna(row['municipality']) else None,
+                    state="md"
+                ),
+                warn_date=warn_date.date() if pd.notna(warn_date) else None,
+                layoff_date=layoff_date.date() if pd.notna(layoff_date) else None,
+                type=derive_warn_type(row['note']),
+                impacted=clean_impacted(row['employees_impacted']),
+                notes=str(row['note']) if pd.notna(row['note']) else None
+            )
+            records.append(record.model_dump(mode='json'))
+        except Exception as e:
+            print(f"Error parsing row: {e}")
+    
+    return records
 
-    df = df.tail(-1) # The first row is headers
-    df = df.drop([1], axis=1)
-    df['state'] = 'md'
-    df = df.rename(columns={0: "warn_date", 2: "company", 3: "municipality",4: "employees_impacted", 5: "layoff_date", 6: "note"})
+urls = [
+    'https://www.dllr.state.md.us/employment/warn.shtml',
+    'https://www.dllr.state.md.us/employment/warn2010.shtml'
+]
 
+all_records = []
+for url in urls:
+    all_records.extend(parse(url))
 
-    print(df)
-    return df
-
-def archive_parse(url):
-    print('Visiting ' + url)
-
-
-years = [parse('https://www.dllr.state.md.us/employment/warn.shtml'), archive_parse_2010('https://www.dllr.state.md.us/employment/warn2010.shtml') ]
+with open("./data/md.json", "w") as f:
+    json.dump(all_records, f, indent=2)

@@ -1,0 +1,5462 @@
+[
+  {
+    "employer": {
+      "name": "Nordstrom Card Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "State of Utah",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 15,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sheraton",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 100,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sumaria Systems Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ogden",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 59,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SMBC Manubank",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sandy",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 1,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "De La Rue Authentication Solutions inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Utah",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 50,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Insurance Office of America, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "State of Utah",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 11,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Actavis Laboratories",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 205,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Revere Health",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Provo",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 177,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Vector Defense",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper and Bluffdale",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 54,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Owens Corning",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Nephi",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 67,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Red Mountain Resort",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ivans",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 97,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sundance Holdings",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 63,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Mau Workforce Solutions",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ogden",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 74,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Teva Pharmaceuticals",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 54,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "U.S. Gypsum",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sigurd",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 55,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Clearfield Job Corps",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Clearfield",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 370,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "American Crafts",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 92,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Actavis Laboratories",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 78,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Athena Services International",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Statewide",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 170,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Boostability",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lehi",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 57,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Vimo, Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Logan (nationwide)",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 430,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CompTia",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lehi",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 42,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Straight Smile",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lehi",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 166,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Xanterra",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Hurricane",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 116,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "U.S. Magnesium",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 186,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cygnus Home Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 12,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Smead",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cedar City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 77,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Blue Raven",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 766,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Purple Innovation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 328,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "StubHub",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 297,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Ben Group Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 72,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Summit Hill Foods dba Whole Foods",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 46,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Academy Mortgage",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Statewide",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 250,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ABM Industry Groups",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 106,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Lost Boys Interactive",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Bluffdale",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 1,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Smithfield Foods LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Milford",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 75,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Emery County Coal Resources\naka - Lila Canyon Mine",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Carbon",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 150,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sarcos",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 70,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Scandia",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 20,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "eReplacement Parts",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 65,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sleep Number",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 92,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cygnus Home Service",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 19,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SKF",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 108,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Walgreens",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 70,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Merical",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 36,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Americold Logistics, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 81,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "DAS Companies, Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 82,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Actavis Laboratories",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 109,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ThermoFisher",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 141,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SkyWest Airlines",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-09-05",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 226,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Matheson Postal Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-06-30",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 42,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CreditRepair.com",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-05-11",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 15,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Lexington Law Firm",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-05-11",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 63,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cricut Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Provo",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-05-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 52,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Misfits Market",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Jordan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-04-08",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 82,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Progrexion",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City/Provo",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-04-05",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 355,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Linkotek Medical",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Logan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-04-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 52,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Stitch Fix Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Jordan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-03-06",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 144,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Rume Health LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "South Jordan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-02-06",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 14,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Specialized Bicycle Components Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-01-13",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 16,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Genysis Brand Solutions",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-12-23",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 324,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Purple Innovation, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Alpine",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-09-02",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 135,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Emery County Coal Resources, Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Carbon",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-09-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 212,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "DDSC, INC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Jordan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 39,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Medly Health Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ogden",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 76,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Maximus Federal Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sandy",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-04-11",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 504,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Grov Technologies LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Vineyard",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-03-02",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 115,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Stellar Smart Energy Solutions, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Vineyard",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-03-02",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 6,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Alliance Ground International Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-01-15",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 53,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Utah Higher Education Assistance Authority",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-12-14",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 128,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Center for Excellence in Higher Education",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-09-20",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 311,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Yesco/Prismview",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Logan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-09-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 210,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "XANT, Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Provo",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-08-03",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 112,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Haemonetics",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-07-25",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 92,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "United Parcel Service",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-06-04",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 95,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Levolor Kirsch Home",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ogden",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-04-09",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 73,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SyncTruck, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Valley",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-03-07",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 107,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "JC Penney",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ogden",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-02-27",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 65,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Utah Higher Education",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-01-16",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 148,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "NAC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-01-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 118,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "PF Changs China Bistro",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-11-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 75,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "HMS Host",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-10-15",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 124,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Remington Arms Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Mona",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-09-29",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 92,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Castle Valley Mining",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Huntington",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-09-20",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 121,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "JC Penney Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-08-31",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 65,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Levy Premium Foodservice",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sandy",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-08-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 356,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "StubHub Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-07-30",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 124,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Waldorf Astoria",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Park City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-07-27",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 50,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Paradies SLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-07-27",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 53,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hilton Hotel Employer",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-07-23",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 144,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "UtahAmerican Energy",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Carbon",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-06-03",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 268,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hertz",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-21",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 76,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Dexter Axle Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lehi",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-19",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 109,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Dexter Axle Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-11",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 61,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hertz",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 74,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "LendingClub",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lehi",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 144,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Enterprise",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 216,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Core-Mark",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 79,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hexcel Corp.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Valley",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-23",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 430,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Utility Trailer",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Clearfield",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-23",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 492,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Exeter Finance LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Clearfield",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-15",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 238,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Backroads Utah",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-15",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 84,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cinemark",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Statewide",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-15",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 666,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Thumbtack Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-15",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 129,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ABM Aviation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-15",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 83,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Black Turtle Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sandy",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-03",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 195,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Punch Bowl Social",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-03",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 85,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Simpler Postage",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ogden",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-03",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 20,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "MH Lodging",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 128,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Vivint Wireless",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lehi",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-03",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 113,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Walmart",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-02-13",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 126,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Solera Holdings",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-02-05",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 201,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "UPS",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-02-04",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 142,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Isagenix",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lehi",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-02-04",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 140,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Semco Windows & Doors",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 17,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Canopy Tax, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lehi",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 73,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Nestle USA",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 52,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Black Diamond",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 67,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ABM",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 98,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "BD Medical",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 41,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "LSC Communications US, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "St. George",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 77,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Toter, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 70,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "NetflixCS",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 574,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Tesla Energy Operations",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 97,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Taylorsville",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 164,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "The Results Companies",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Provo",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 300,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Morgan Stanley",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "South Jordan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 90,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Stahls' Full Gear",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Valley City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 58,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "LSG Sky Chefs",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 188,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Western Digital",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Holladay",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 105,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ABM Aviation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 50,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Logan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 211,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Harman",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "South Jordan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 41,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Easton",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 56,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Kencraft Confections",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "American Fork",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 77,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ASM Research",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 71,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Twinlab Consolidation Corp",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "American Fork",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 100,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Walmart",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Grantsville",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 37,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Viracon",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "St. George",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 200,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CB&I",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Clearfield",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 195,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Walmart",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "South Jordan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 65,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CenturyLink",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Midvale",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 58,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "NCR",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-09-06",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 35,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Taylorsville",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-07-06",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 250,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Kellogg's",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-05-26",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 247,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "TD Ameritrade",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-04-20",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 69,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Dollar Express",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-03-30",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 38,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-03-21",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 130,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ogden",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-03-21",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 209,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Ogio",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-03-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 33,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cedar City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-02-20",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 77,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Macy's",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-01-04",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 96,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Survey Sampling Int",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Layton",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 106,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Amico",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 30,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "South Ogden",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 230,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 85,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Taylorsville",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 220,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Nellson LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 193,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "UtahAmerican Energy Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Carbon",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 165,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 156,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Meadow Gold Dairies",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 68,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Herff Jones",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Logan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 180,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Allstate Insurance",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 87,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Disney Interactive",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 240,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Prosper Healthcare Lending",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 96,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SunEdison",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 43,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Halliburton Energy Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Vernal",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 50,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Quality Bicycle Products",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ogden",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 34,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CoreLogic",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sandy",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 67,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Glasses.com",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 161,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Tyson Foods",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Clearfield",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 106,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Fidelity Exploration & Production",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Moab",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 20,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Barrick Gold of North America",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 63,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Miller Performance",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tooele",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 80,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Icon Health & Fitness",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Logan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 400,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Kellogg Plant",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Clearfield",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 140,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "American Express (Amended)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 40,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "American Express",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 35,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Energy West Mining Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Huntington",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 10,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Fairchild Semiconductor",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 361,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Atwood Mobile Products",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 75,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cottonwood Treatment Center",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "South Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 178,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Energy West Mining Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Huntington",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 41,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Energy West Mining Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Huntington",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 95,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CallAssistant",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Logan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 98,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Strategic Fundraising Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Logan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 50,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Shopko",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Provo",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 62,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Shopko",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Bountiful",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 79,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Survey Sampling International",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 115,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "RBS Securities Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Taylorsville",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 30,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Devcon Security Services Corp & ADT LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lindon",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 60,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Wells Enterprises, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "St. George",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 90,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Community Development Institute \u2013 Head Start",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Honeyville",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 167,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Xerox Business Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 279,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Remington",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Jordan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 31,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Aramark at Hertz SLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 83,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SuperValu Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 66,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CenturyLink",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Logan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 97,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "General Dynamics IT",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sandy",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 645,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "General Dynamics IT",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sandy",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 621,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Xerox Business Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sandy",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 175,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CenturyLink",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 120,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Electronic Arts Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 67,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "GrubHub Seamless Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sandy",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 156,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "First National Bank of Layton Mortgage Division",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper & St. George",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 37,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "URS (EG&G Defense Materials)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Stockton",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 34,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Bank of America",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "South Jordan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 65,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 75,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "URS (EG&G Defense Materials)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Stockton",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 194,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "URS (EG&G Defense Materials)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Stockton",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-06-03",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 193,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ogden",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 175,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "URS (EG&G Defense Materials)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Stockton",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-03-11",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 19,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "URS (EG&G Defense Materials)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Stockton",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-02-25",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 71,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Viracon, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "St. George",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-02-12",
+    "layoff_date": null,
+    "type": null,
+    "impacted": 222,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "TD Ameritrade Holding Corp",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 75,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "URS Corp - EG&G Defense Materials",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tooele",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 779,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cerro Flow Products",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cedar City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 69,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SnugZ USA \u2013Northstar Mfg.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City\n(Relocating to Eagle Mtn. Utah)",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 350,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Darigold, Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 86,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hostess navbar-headers",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Statewide",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 580,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Northrop Grumman",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lehi",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 84,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "HMS Host",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 195,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Nordstrom",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 185,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Canyon Fuel Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Carbon County",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 114,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "HMS Host",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SLC",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 118,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "EG&G Subsidiary of URS",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Stockton",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 96,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "PACE American",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Hurricane",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 35,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Honeywell (FRAM Group)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Clearfield",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 77,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Penco Products, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Jordan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 70,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Wells Fargo & Co.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 51,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Air Terminal Gifts",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 15,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Passages to Recovery",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Loa",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 25,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Aspen Ranch",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Loa",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 113,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Aspen Achievement Academy",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Loa",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 55,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Youth Care of Utah",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 122,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SunHawk Academy of Utah",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "St. George",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 75,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Air Terminal Gifts",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 149,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Kmart Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Kearns",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 72,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ZipLocal",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Orem",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 85,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ZipRealty",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cottonwoods Heights",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 74,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Comcast",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sandy",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 321,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Principal Financial Group",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 82,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Consol Energy (Consolidation Coal Company; Emery Mine)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Emery",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 171,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Deseret News Publishing Co.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 85,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "FIS Management Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 31,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "American Distribution Centers",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 39,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Flying J Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ogden",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 141,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Fidelity National Information Services (FIS)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Valley City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 102,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "UPS Freight, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "North Salt Lake",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 50,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Mosaic",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Nephi",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 94,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Provo Craft & Novelty Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Spanish Fork",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 109,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CompuCredit",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 162,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Dollar Tree",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 98,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Enterprise Rent-A-Car",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 71,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Moog Aircraft",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Valley City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 201,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Convergys",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Taylorsville",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 300,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Teleperformance USA",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Clearfield",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 151,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "TW & Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Clearfield (HAFB)",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 100,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Advanta Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Draper",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 31,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "RR Donnelley",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Spanish Fork",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 120,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Holland & Hart, RxAmerica",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 200,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Beneficial Life Insurance",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 150,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "First Transit",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Logan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 100,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Schlumberger",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Vernal",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 22,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Weather Shield Premium\nWindows & Doors",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Logan",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 95,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Teleperformance USA",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Clearfield",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 189,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Spring Air",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 53,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Schlumberger",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Vernal",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 28,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Holland & Hart, RxAmerica",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 43,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Western Quality Foods",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cedar City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 95,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Move Networks",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "American Fork",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 57,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Rio Tinto",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Salt Lake City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 66,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Lozier Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cedar City",
+      "state": "ut",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": null,
+    "type": null,
+    "impacted": 82,
+    "notes": null,
+    "link": null
+  }
+]

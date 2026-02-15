@@ -1,0 +1,4222 @@
+[
+  {
+    "employer": {
+      "name": "Surgical Specialties",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2003-07-21",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "HILTI",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "TULSA",
+      "state": "ok",
+      "zip": "74146"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2003-04-03",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Quebecor World",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2002-01-07",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Quebecor World",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2002-01-07",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Oklahoma City University",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2002-04-10",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "K-Mart",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2001-07-05",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Weyerhauser",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2002-06-04",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Lockheed Martin",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2002-06-15",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Gulfstream Aerospace",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Savannah",
+      "state": "ok",
+      "zip": "31408"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2002-07-18",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Gulfstream Aerospace",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Savannah",
+      "state": "ok",
+      "zip": "31408"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2002-03-26",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Gulfstream Aerospace",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Savannah",
+      "state": "ok",
+      "zip": "31408"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2002-04-18",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Tyson Foods",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Noel",
+      "state": "ok",
+      "zip": "64854"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2003-01-10",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "XEROX CORPORATION",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "YUKON",
+      "state": "ok",
+      "zip": "73099"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2001-07-06",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Pilgrim's Pride",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2001-03-21",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "UniFirst Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Broken Arrow",
+      "state": "ok",
+      "zip": "74013"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2001-04-27",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sykes",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2004-01-07",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Kwikset",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2004-04-19",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sunoco",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Newtown",
+      "state": "ok",
+      "zip": "19073"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2004-08-10",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Corrections Corporation of America",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Holdenville",
+      "state": "ok",
+      "zip": "74848"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2005-05-10",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Johnson Controls",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ponca City",
+      "state": "ok",
+      "zip": "74601"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2006-01-25",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Weyerhaeuser",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Idabel",
+      "state": "ok",
+      "zip": "74745"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2005-10-24",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Eaton Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2006-04-07",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "General Motors",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2006-01-25",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "APAC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2006-09-23",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Eaton Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2006-09-07",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Albertsons",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2007-06-19",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Albertsons",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2007-06-19",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Albertsons",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2007-06-19",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "First Data",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2007-07-30",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "First Data",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2007-07-30",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Macy's",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Broken arrow",
+      "state": "ok",
+      "zip": "74011"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2007-12-28",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hertz",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73132"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2008-05-07",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Georgia Pacific",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2008-06-16",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hertz",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73132"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2008-05-07",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hertz",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73132"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2008-05-07",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Xerox",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2008-11-05",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "National Oilwell Varco",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "McAlester",
+      "state": "ok",
+      "zip": "74501"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-02-03",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Limco",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-02-09",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Weyerhaeuser",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Idabel",
+      "state": "ok",
+      "zip": "74745"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-03-17",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "American Woodmark",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-03-31",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Tyson Foods, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Holdenville",
+      "state": "ok",
+      "zip": "74848"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-03-27",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "John Zink",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-04-04",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cameron",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-05-19",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Paragon",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-05-15",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Weyerhaeuser",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Idabel",
+      "state": "ok",
+      "zip": "74745"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-03-17",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Paragon Industries",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sapulpa",
+      "state": "ok",
+      "zip": "74066"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-05-13",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Oral Roberts University",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-10-12",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Raytheon",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-01-15",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Zeledyne",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-01-27",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Corrections Corporation of America",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Holdenville",
+      "state": "ok",
+      "zip": "74848"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-03-08",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "West Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Omaha",
+      "state": "ok",
+      "zip": "68154"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-08-12",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "U.S. CELLULAR",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-06-07",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "3M",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "ARDMORE",
+      "state": "ok",
+      "zip": "73401"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-06-16",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Great Plains Correctional Facility",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Hinton",
+      "state": "ok",
+      "zip": "73047"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-08-18",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Lufthansa Technik",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-10-25",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Principal Financial Group",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-10-22",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "UNITED HEALTH Group",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73104"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-11-09",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "IMATION",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "WEATHERFORD",
+      "state": "ok",
+      "zip": "73096"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-01-19",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Zeledyne",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-05-31",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Mercury Marine",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-01-18",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Air Systems Components",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-03-21",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Terex Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-11-14",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "TRACKER MARINE LLC %EXPERIAN EMPLOYER SERVICES",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "LONDONDERRY",
+      "state": "ok",
+      "zip": "30533616"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2012-02-08",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Northrop Grumman",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2012-04-26",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sitel",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Nashville",
+      "state": "ok",
+      "zip": "37203"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2012-06-28",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "American Airlines",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Fort Worth",
+      "state": "ok",
+      "zip": "76155"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2012-09-17",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Walgreens",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "McAlester",
+      "state": "ok",
+      "zip": "74501"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2012-09-10",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sykes",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2012-07-31",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sears",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Longwood",
+      "state": "ok",
+      "zip": "32750"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-01-30",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Chromalloy",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tulsa",
+      "state": "ok",
+      "zip": "74152"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-01-18",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Raytheon",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-03-13",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Alorica",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-04-03",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "DISH - NLX",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tulsa",
+      "state": "ok",
+      "zip": "74116"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-09-09",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "US Foods",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-10-03",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Empire Castings",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-10-01",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Chesapeake Energy Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73118"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-10-08",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cox Communications",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73132"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2014-03-03",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Simmons Foods",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Jay",
+      "state": "ok",
+      "zip": "74346"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2014-10-27",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Reasor's",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tulsa",
+      "state": "ok",
+      "zip": "74146"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2014-09-08",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sodexo",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73122"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-02-02",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "BAKER HUGHES INC THOMAS & COMPANY",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "NASHVILLE",
+      "state": "ok",
+      "zip": "37228-1214"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-02-06",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hillcrest Hospital",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-02-17",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "United Airlines",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-03-10",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Halliburton Energy Services-Duncan Camp",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Duncan",
+      "state": "ok",
+      "zip": "73533"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-03-18",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SKF",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-05-19",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Service King",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-09-09",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Chesapeake",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-09-29",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Macy's",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Broken arrow",
+      "state": "ok",
+      "zip": "74011"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-01-06",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "NOVITEX ENTERPRISE SOLUTIONS INC BADRINATH NAGA",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "IRVING",
+      "state": "ok",
+      "zip": "75063-8234"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-01-26",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Devon Energy",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-02-19",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hertz",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73132"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-02-11",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Halliburton",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "duncan",
+      "state": "ok",
+      "zip": "73536"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-05-23",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "kenco plastics",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "poteau",
+      "state": "ok",
+      "zip": "74953"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-04-28",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "HCR ManorCare",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-07-11",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "BAKER HUGHES INC THOMAS & COMPANY",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "NASHVILLE",
+      "state": "ok",
+      "zip": "37228-1214"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-02-18",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Zelenka Farms",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-07-14",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Experience Works",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Wagoner",
+      "state": "ok",
+      "zip": "74477"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-11-07",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Weatherford",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-12-02",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Weatherford",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-12-05",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Linde Engineering North America",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-03-22",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "HERC Rentals",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-04-04",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "WalMart",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Altus",
+      "state": "ok",
+      "zip": "73521"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-06-20",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "ABM INDUSTRIES INC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "SUGAR LAND",
+      "state": "ok",
+      "zip": "77478-0014"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-01-19",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Airgas",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lawton",
+      "state": "ok",
+      "zip": "73505"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-08-29",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "UPS",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-11-18",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Coca-Cola",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2018-01-22",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "St. Gregory's University",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-11-28",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Laredo Petroleum",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-04-08",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "University of Oklahoma",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-02-06",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "BJ Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Yukon",
+      "state": "ok",
+      "zip": "73099"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-01-31",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Shadow Mountain Behavioral Health",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tulsa",
+      "state": "ok",
+      "zip": "74133"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-02-01",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "University of Oklahoma",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-06-14",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Step Energy Services",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Spring",
+      "state": "ok",
+      "zip": "77380"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-31",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "BAKER HUGHES INC THOMAS & COMPANY",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "NASHVILLE",
+      "state": "ok",
+      "zip": "37228-1214"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-15",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Halliburton",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "duncan",
+      "state": "ok",
+      "zip": "73536"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-15",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Halliburton",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "duncan",
+      "state": "ok",
+      "zip": "73536"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-06",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "JC Penney",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Ardmore",
+      "state": "ok",
+      "zip": "73401"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-02-10",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SandRidge Energy",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-02-04",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SandRidge Energy",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-17",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SandRidge Energy",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-16",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cameron Drilling",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Moore",
+      "state": "ok",
+      "zip": "73160"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-23",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Halliburton",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "duncan",
+      "state": "ok",
+      "zip": "73536"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-12-02",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Simmons Bank",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Chickasha",
+      "state": "ok",
+      "zip": "73018"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-10-10",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Energy Transfer",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Houston",
+      "state": "ok",
+      "zip": "77002"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-01-06",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Spirit AeroSystems",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tulsa",
+      "state": "ok",
+      "zip": "74116"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-01-23",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "METLIFE",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-07-31",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Capital One",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-07-10",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "State Farm",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Watonga",
+      "state": "ok",
+      "zip": "73772"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-06-26",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Siemens",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-05-23",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CACI",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-04-29",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sitel",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Nashville",
+      "state": "ok",
+      "zip": "37203"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-10-21",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Enterprise Holdings",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Edmond",
+      "state": "ok",
+      "zip": "73034"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-27",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hertz",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73132"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-28",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Halliburton Energy Services, Inc. - Duncan Mfg.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Duncan",
+      "state": "ok",
+      "zip": "73533"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-28",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Apergy",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Claremore",
+      "state": "ok",
+      "zip": "74019"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-28",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Regal Cinemas",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Broken Arrow",
+      "state": "ok",
+      "zip": "74011"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-29",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Regal Cinemas",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Broken Arrow",
+      "state": "ok",
+      "zip": "74011"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-29",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Regal Cinemas",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Broken Arrow",
+      "state": "ok",
+      "zip": "74011"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-29",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Dillard's",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-13",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "SandRidge Energy",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-28",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Enterprise Holdings",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Edmond",
+      "state": "ok",
+      "zip": "73034"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-06-22",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hitch Enterprises",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Guyman",
+      "state": "ok",
+      "zip": "73942"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-06-26",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Skirvin Hilton",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73102"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-06-26",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CoorsTek",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73149"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-07-07",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Mathis Home",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73107"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-25",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Mathis Home",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73107"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-25",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Mathis Home",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73107"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-25",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Mathis Home",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73107"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-25",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cimarron Correctional Facility",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cushing",
+      "state": "ok",
+      "zip": "74023"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-07-17",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Delaware North",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-07-15",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "WalMart",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Altus",
+      "state": "ok",
+      "zip": "73521"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-07-22",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Delaware North",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-06-30",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Delaware North",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-06-30",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "NORDAM",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-02",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Aimbridge Hospitality",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-21",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Crescent Hotels and Resorts",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73163"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-01",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Gathering Place",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tulsa",
+      "state": "ok",
+      "zip": "74115"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-04",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Enterprise Holdings",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Edmond",
+      "state": "ok",
+      "zip": "73034"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-05",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Enterprise Holdings",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Edmond",
+      "state": "ok",
+      "zip": "73034"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-05",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Enterprise Holdings",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Edmond",
+      "state": "ok",
+      "zip": "73034"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-05",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Atrium Hospitality",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-13",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Atrium Hospitality",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-13",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Accurus Aerospace Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tulsa",
+      "state": "ok",
+      "zip": "74103"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-15",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Enterprise Holdings",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Edmond",
+      "state": "ok",
+      "zip": "73034"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-05",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "GEFCO",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-08-03",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Vetta Brands",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Norman",
+      "state": "ok",
+      "zip": "73071"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-08-17",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Aramark",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73169"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-08-27",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "American Airlines",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Fort Worth",
+      "state": "ok",
+      "zip": "76155"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-07-15",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Regal Cinemas",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Broken Arrow",
+      "state": "ok",
+      "zip": "74011"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-10-20",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Regal Cinemas",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Broken Arrow",
+      "state": "ok",
+      "zip": "74011"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-10-20",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "IAP",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-12-01",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Southwest Airlines",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma CityOklahoma City",
+      "state": "ok",
+      "zip": "73159"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-12-04",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "A&B Distributors",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-07",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Meta Special Aerospace",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73008"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-02-08",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Flowserve",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Dallas",
+      "state": "ok",
+      "zip": "75206"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-04-29",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sodexo",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73122"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-05-13",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hiland Dairy",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Dodge City",
+      "state": "ok",
+      "zip": "67801"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-06-04",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Odle Management Group",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-10-29",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Bristow Medical Center",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-10-28",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Superior Linen Service",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-05-18",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Hire Right",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tulsa",
+      "state": "ok",
+      "zip": "74134"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-07-01",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Tetra Tech, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73105"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-07-07",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Odle Management Group",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-08-31",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Interceramic Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73107"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-02-23",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Interceramic Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73107"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-02-23",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "First Transit",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73179"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-04-04",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Avantive Solutions",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tulsa",
+      "state": "ok",
+      "zip": "74134"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-06-12",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "CORECIVIC OF TENNESSEE LLC THOMAS & COMPANY",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "NASHVILLE",
+      "state": "ok",
+      "zip": "37228-5140"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-07-31",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Mutual of Omaha",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-10-12",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "BizJet",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-11-25",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Baker Hughes GE",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2018-01-25",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Cooks Venture Poultry",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Jay",
+      "state": "ok",
+      "zip": "74346"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-11-17",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "LarKen Logistics LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "St. Peters",
+      "state": "ok",
+      "zip": "63376"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-03",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "NuCera Solutions, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Barnsdall",
+      "state": "ok",
+      "zip": "77478"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-07-30",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Solo Cup Operating Corp",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Mason",
+      "state": "ok",
+      "zip": "48854"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-04-20",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Novo Logistics",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-01-30",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "7-Eleven",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-05-23",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Ruan Transport Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Des Moines",
+      "state": "ok",
+      "zip": "50309"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-12-20",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "WIT Services Co LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sapulpa",
+      "state": "ok",
+      "zip": "74066"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-10-22",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Dollar Tree",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-05-24",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Big Lots Durant DC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Durant",
+      "state": "ok",
+      "zip": "74701"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-12-19",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Warehouse Specialist LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Appleton",
+      "state": "ok",
+      "zip": "54913"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-01-10",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Paragon Industries",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sapulpa",
+      "state": "ok",
+      "zip": "74066"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-10-22",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Sound Physicians of Oklahoma",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Tacoma",
+      "state": "ok",
+      "zip": "98402"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-08-13",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Fellers",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": null,
+      "state": "ok",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-26",
+    "layoff_date": null,
+    "type": null,
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Jindal Films Americas LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Shawnee",
+      "state": "ok",
+      "zip": "74804"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-25",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Paycom",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73142"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-10-01",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Kroger",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Oklahoma City",
+      "state": "ok",
+      "zip": "73131"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-12-03",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Carrus Lakeside Hospital",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Sherman",
+      "state": "ok",
+      "zip": "75092"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-12-15",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Macy's Distribution",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Owasso",
+      "state": "ok",
+      "zip": "74055"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-15",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  },
+  {
+    "employer": {
+      "name": "Bright Horizons",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Watertown",
+      "state": "ok",
+      "zip": "02472"
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-30",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": null,
+    "link": null
+  }
+]

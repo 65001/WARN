@@ -42,7 +42,6 @@ def parse(url):
 
     df['state'] = 'ct'
     return df
-
 years = []
 for year in range(2015, 2024):
     url = 'https://www.ctdol.state.ct.us/progsupt/bussrvce/warnreports/warn' + str(year) + '.htm'

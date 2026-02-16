@@ -1,0 +1,122 @@
+[
+  {
+    "employer": {
+      "name": "BIMBO Bakeries",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Albuquerque",
+      "state": "nm",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-01-16",
+    "layoff_date": "2024-04-16",
+    "type": null,
+    "impacted": 123,
+    "notes": null,
+    "link": "https://www.dws.state.nm.us/Portals/0/DM/Business/2024_WARN.pdf"
+  },
+  {
+    "employer": {
+      "name": "CTI",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Alamogordo",
+      "state": "nm",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-01-31",
+    "layoff_date": "2023-10-24",
+    "type": null,
+    "impacted": 68,
+    "notes": null,
+    "link": "https://www.dws.state.nm.us/Portals/0/DM/Business/2024_WARN.pdf"
+  },
+  {
+    "employer": {
+      "name": "Jabil Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Albuquerque",
+      "state": "nm",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-07-15",
+    "layoff_date": "2024-09-13",
+    "type": null,
+    "impacted": 130,
+    "notes": null,
+    "link": "https://www.dws.state.nm.us/Portals/0/DM/Business/2024_WARN.pdf"
+  },
+  {
+    "employer": {
+      "name": "St. James Hotel and UU Bar Ranch",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cimarron",
+      "state": "nm",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-08-29",
+    "layoff_date": "2024-10-31",
+    "type": null,
+    "impacted": 58,
+    "notes": null,
+    "link": "https://www.dws.state.nm.us/Portals/0/DM/Business/2024_WARN.pdf"
+  },
+  {
+    "employer": {
+      "name": "Hallcon Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Clovis",
+      "state": "nm",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-08-30",
+    "layoff_date": "2024-10-31",
+    "type": null,
+    "impacted": 118,
+    "notes": null,
+    "link": "https://www.dws.state.nm.us/Portals/0/DM/Business/2024_WARN.pdf"
+  },
+  {
+    "employer": {
+      "name": "U.S. Cotton, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Rio Rancho",
+      "state": "nm",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-09-04",
+    "layoff_date": "2025-08-31",
+    "type": null,
+    "impacted": 175,
+    "notes": null,
+    "link": "https://www.dws.state.nm.us/Portals/0/DM/Business/2024_WARN.pdf"
+  }
+]

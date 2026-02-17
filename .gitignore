@@ -4,3 +4,23 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Distribution / builds
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environments
+.venv/
+env/
+venv/
+
+# IDE/Editor
+.idea/
+.vscode/
+.DS_Store
+
+# Data downloads (intermediate)
+data/*.xlsx
+data/*.pdf

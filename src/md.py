@@ -44,10 +44,10 @@ def parse(url):
     
     return records
 
-urls = [
-    'https://www.dllr.state.md.us/employment/warn.shtml',
-    'https://www.dllr.state.md.us/employment/warn2010.shtml'
-]
+urls = ['https://www.dllr.state.md.us/employment/warn.shtml']
+# Add years 2025 down to 2010
+for year in range(2025, 2009, -1):
+    urls.append(f'https://www.dllr.state.md.us/employment/warn{year}.shtml')
 
 all_records = []
 for url in urls:

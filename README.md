@@ -23,15 +23,15 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 
 | State  | Link  | Notes  | Dates | Warning |
 |---|---|---|---|---|
-| [Alabama](https://www.madeinalabama.com/warn-list/) |   |  Working as of 2023-03-12. | 1999-2023 | |
-| [Alaska](https://jobs.alaska.gov/rr/WARN_notices.htm) | |  Working as of 2023-03-13. | 2006-2022 | ISO date not supported on the `layoff_date` field. |
+| [Alabama](https://www.madeinalabama.com/warn-list/) | | HTML Scraper. Last validated: 2026-02-15. | | |
+| [Alaska](https://jobs.alaska.gov/rr/WARN_notices.htm) | | HTML Scraper. Last validated: 2026-02-15. | | |
 | American Samoa | |  Not Listed |
-| [Arizona](https://www.azjobconnection.gov/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | | American Jobs Center |
+| [Arizona](https://www.azjobconnection.gov/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | | Playwright (AJC). Last validated: 2026-02-15. | | |
 | Arkansas | | Not Found |
-| [California](https://edd.ca.gov/en/jobs_and_training/Layoff_Services_WARN/) | |  XLSX for latest info (July 1 of last year to July 1st of the next year). PDF for the rest| 
-| [Colorado](https://cdle.colorado.gov/employers/layoff-separations/layoff-warn-list) | | Google Docs. Probably requires yearly changes. |
-| [Connecticut](https://www.ctdol.state.ct.us/progsupt/bussrvce/warnreports/warnreports.htm) | |  Working as of 2023-04-11. | 2015-2023 | ISO date not supported on the `layoff_date` field. |
-| [Delaware](https://joblink.delaware.gov/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | |American Jobs Center |
+| [California](https://edd.ca.gov/en/jobs_and_training/Layoff_Services_WARN/) | | PDF & XLSX Scraper. Last validated: 2026-02-15. | | | 
+| [Colorado](https://cdle.colorado.gov/employers/layoff-separations/layoff-warn-list) | | Google Docs. Pvrobably requires yearly changes. |
+| [Connecticut](https://www.ctdol.state.ct.us/progsupt/bussrvce/warnreports/warnreports.htm) | | HTML Scraper. Last validated: 2026-02-15. | | |
+| [Delaware](https://joblink.delaware.gov/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | | Playwright (AJC). Last validated: 2026-02-15. | | |
 | [District of Columbia](https://does.dc.gov/page/industry-closings-and-layoffs-warn-notifications-2023) | | Requires a web scraper. |
 | [Florida](https://floridajobs.org/office-directory/division-of-workforce-services/workforce-programs/reemployment-and-emergency-assistance-coordination-team-react/warn-notices) | |  Requires a web scraper. Slow. Links to the PDF of the actual Notice.|
 | [Georgia](https://www.tcsg.edu/worksource/rapid-response/) | | |
@@ -44,10 +44,10 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | [Kansas](https://www.kansascommerce.gov/program/workforce-services/warn/) | | AmericanJobCenter |
 | [Kentucky](https://kcc.ky.gov/Pages/News.aspx) | | Scarper for XLSX link changing. |
 | Louisiana | | Not Found |
-| [Maine](https://joblink.maine.gov/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | | American Jobs Center |
-| [Maryland](https://www.dllr.state.md.us/employment/warn.shtml) | | Requires a Scraper |
+| [Maine](https://joblink.maine.gov/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | | Playwright (AJC). Last validated: 2026-02-15. | | |
+| [Maryland](https://www.dllr.state.md.us/employment/warn.shtml) | | HTML Scraper. Last validated: 2026-02-15. | | |
 | [Massachusetts](https://www.mass.gov/service-details/worker-adjustment-and-retraining-act-warn-weekly-report) | | XLSX Weekly and FY. FOIA for Archives?|
-| [Michigan](https://www.michigan.gov/leo/bureaus-agencies/wd/data-public-notices/warn-notices) | | What the hell is this website. |
+| [Michigan](https://www.michigan.gov/leo/bureaus-agencies/wd/data-public-notices/warn-notices) | | Complex layout. |
 | [Minnesota](https://mn.gov/deed/programs-services/dislocated-worker/reports/) | | PDF |
 | [Mississippi](https://mdes.ms.gov/information-center/warn-information/) | | Released on a quarterly basis. PDF. |
 | [Missouri](https://jobs.mo.gov/warn/2023) | | | 2019 Earliest. Requires a scraper.
@@ -59,23 +59,23 @@ The below is a list of publicly available WARN Act Notices by jurisdiciton gotte
 | [New Mexico](https://www.dws.state.nm.us/Rapid-Response) | |PDF |
 | [New York](https://dol.ny.gov/warn-notices) | | Web Scraper |
 | [North Carolina](https://www.commerce.nc.gov/data-tools-reports/labor-market-data-tools/workforce-warn-reports) | | PDF |
-| North Dakota | | LNot Found|
+| North Dakota | | Not Found |
 | Northern Mariana Islands | | Not Listed| 
 | [Ohio](https://jfs.ohio.gov/warn/) | | Scraper. Link |
-| [Oklahoma](https://www.employoklahoma.gov/Participants/s/warnnotices) | | American Jobs Center. |
+| [Oklahoma](https://www.employoklahoma.gov/Participants/s/warnnotices) | | Playwright (Shadow DOM). Last validated: 2026-02-15. | | |
 | [Oregon](https://www.oregon.gov/highered/institutions-programs/workforce/Pages/warn.aspx) | [Link](https://ccwd.hecc.oregon.gov/Layoff/WARN/Download) | XLSX. Requires Scraper to download (?) |
-| [Pennsylvania](https://www.dli.pa.gov/Individuals/Workforce-Development/warn/notices/Pages/default.aspx) | | Scraper. Why |
+| [Pennsylvania](https://www.dli.pa.gov/Individuals/Workforce-Development/warn/notices/Pages/default.aspx) | | Scraper. |
 | [Puerto Rico](https://www.ddec.pr.gov/en/workforce-development-program) | | |
-| [Rhode Island](https://dlt.ri.gov/employers/worker-adjustment-and-retraining-notification-warn) | | XLSX |
+| [Rhode Island](https://dlt.ri.gov/employers/worker-adjustment-and-retraining-notification-warn) | [Link](https://dlt.ri.gov/media/15796/download?language=en) | Direct XLSX Download. Last validated: 2026-02-17. | | |
 | [South Carolina](https://scworks.org/employer/employer-programs/risk-closing/layoff-notification-reports) | | PDF |
 | [South Dakota](https://dlr.sd.gov/workforce_services/businesses/warn_notices.aspx) | | Link to Actual Notices|
 | [Tennessee](https://www.tn.gov/workforce/general-resources/major-publications0/major-publications-redirect/reports.html) | |Link to Actual Notices |
-| [Texas](https://www.twc.texas.gov/data-reports/warn-notice) | | XLSX |
-| [Utah](https://jobs.utah.gov/employer/business/warnnotices.html) | | Scraper. American Jobs Network. |
+| [Texas](https://www.twc.texas.gov/data-reports/warn-notice) | | Playwright & XLSX. Last validated: 2026-02-17. | | |
+| [Utah](https://jobs.utah.gov/employer/business/warnnotices.html) | | Playwright Scraper. Last validated: 2026-02-15. | | |
 | U.S. Virgin Islands | | Not Listed | 
-| [Vermont](https://www.vermontjoblink.com/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | | Scraper. American Jobs Network. |
+| [Vermont](https://www.vermontjoblink.com/search/warn_lookups?q%5Bnotice_eq%5D=true&commit=Search) | | Playwright (AJC). Last validated: 2026-02-15. | | |
 | [Virginia](https://www.vec.virginia.gov/warn-notices)  | [Link](https://www.vec.virginia.gov/warn-notices-csv.csv?field_region_warn_tid=All&field_notice_date_value[min][date]=07%2F01%2F2000&field_notice_date_value[max][date]=06%2F01%2F2023)  | It seems that min and max dates can be set via url. CSV file. |
-| [Washington](https://fortress.wa.gov/esd/file/WARN/Public/SearchWARN.aspx) | | Scraper. |
+| [Washington](https://fortress.wa.gov/esd/file/WARN/Public/SearchWARN.aspx) | | Playwright Scraper. Last validated: 2026-02-15. | | |
 | [West Virginia](https://workforcewv.org/public-information/warn-notices/current-warn-notices) | | PDF |
 | [Wisconsin](https://dwd.wisconsin.gov/dislocatedworker/warn/) | | American Job Center. Scraper|
 | Wyoming | | Not Found |

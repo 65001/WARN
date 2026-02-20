@@ -1,0 +1,2629 @@
+[
+  {
+    "employer": {
+      "name": "EaglePicher",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Greenwich, RI",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2026-01-13",
+    "layoff_date": "2026-03-15",
+    "type": "Closure",
+    "impacted": 38,
+    "notes": "Sheet: 2026",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "UNFI",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincon",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-09-10",
+    "layoff_date": "2025-11-14",
+    "type": "PermanentLayoff",
+    "impacted": 20,
+    "notes": "Sheet: 2025",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Hotel Viking",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Newport",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-08-29",
+    "layoff_date": "2025-11-03",
+    "type": "PermanentLayoff",
+    "impacted": 1050,
+    "notes": "Sheet: 2025",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Vertex Pharmaceuticals",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-06-06",
+    "layoff_date": "2025-08-05",
+    "type": "PermanentLayoff",
+    "impacted": 1250,
+    "notes": "Sheet: 2025",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "UNFI",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-03-20",
+    "layoff_date": "2025-05-23",
+    "type": "Closure",
+    "impacted": 200,
+    "notes": "Sheet: 2025",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "CVS",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Woonsocket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2025-02-04",
+    "layoff_date": "2025-06-07",
+    "type": "PermanentLayoff",
+    "impacted": null,
+    "notes": "Sheet: 2025",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "CVS",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Woonsocket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-11-25",
+    "layoff_date": "2025-01-25",
+    "type": "PermanentLayoff",
+    "impacted": 796,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "UNFI",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-11-21",
+    "layoff_date": "2025-01-24",
+    "type": "PermanentLayoff",
+    "impacted": 121,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Gannett Publishing",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "1073 HANCOCK ST",
+        "municipality": "MA 02169 ( STEPHEN SULLIVAN- PRESIDENT)",
+        "state": "RI",
+        "zip": "02169"
+      }
+    },
+    "contact": null,
+    "warn_date": "2024-11-12",
+    "layoff_date": "2025-03-10",
+    "type": "Closure",
+    "impacted": 136,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "CVS",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Rhode Island",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-10-06",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": 632,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Kaleo",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Rhode Island",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-10-02",
+    "layoff_date": "2024-11-30",
+    "type": "PermanentLayoff",
+    "impacted": 1,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Riley Power Group",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "North Kingstown",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-09-25",
+    "layoff_date": null,
+    "type": "TemporaryLayoff",
+    "impacted": 13,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Riley Power Group",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "North Kingstown",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-08-20",
+    "layoff_date": null,
+    "type": "TemporaryLayoff",
+    "impacted": 117,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Ennovi Advanced Mobility Solutions Rhode Island Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-07-31",
+    "layoff_date": "2025-01-01",
+    "type": "Closure",
+    "impacted": 205,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Kirby Perkins Construction",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Middletown",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-07-08",
+    "layoff_date": "2024-09-06",
+    "type": "PermanentLayoff",
+    "impacted": 58,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "The Claflin Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "410 SOUTH MAIN ST",
+        "municipality": "PROVIDENCE",
+        "state": "RI",
+        "zip": "02903"
+      }
+    },
+    "contact": null,
+    "warn_date": "2024-05-15",
+    "layoff_date": "2024-07-15",
+    "type": "PermanentLayoff",
+    "impacted": 30,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "ASM GLOBAL",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "THERE ARE 8 UNIONS REPRESENTING 800 WORKERS ALL 1",
+        "municipality": "029 WORKERS ARE BEING RETAINED",
+        "state": "RI",
+        "zip": null
+      }
+    },
+    "contact": null,
+    "warn_date": null,
+    "layoff_date": "2024-06-30",
+    "type": "PermanentLayoff",
+    "impacted": 1029,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "NMC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "North Smithfield",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-05-02",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": 36,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "UPS (updated from previous)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-03-29",
+    "layoff_date": "2024-04-30",
+    "type": "PermanentLayoff",
+    "impacted": 16,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Volta Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Woonsocket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-03-29",
+    "layoff_date": "2024-05-31",
+    "type": "Closure",
+    "impacted": 1,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Lakeside Book Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cumberland",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-02-27",
+    "layoff_date": "2024-11-15",
+    "type": "Closure",
+    "impacted": 48,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "UPS",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "121 BRIGHTRIDGE AVE",
+        "municipality": "PROVIDENCE",
+        "state": "RI",
+        "zip": "02914"
+      }
+    },
+    "contact": null,
+    "warn_date": "2024-02-01",
+    "layoff_date": "2024-04-02",
+    "type": "PermanentLayoff",
+    "impacted": 130,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Los Angeles Times Communications LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Rhode Island",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2024-01-25",
+    "layoff_date": "2024-01-25",
+    "type": "PermanentLayoff",
+    "impacted": 1,
+    "notes": "Sheet: 2024",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Newport  Harbor Island Resort",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Newport",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-09-22",
+    "layoff_date": "2023-11-22",
+    "type": "Closure",
+    "impacted": 136,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "CVS Health",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cumberland/Woonsocket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-08-18",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": 309102623,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "TPI Composites Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warren",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-09-22",
+    "layoff_date": "2023-08-15",
+    "type": "Closure",
+    "impacted": 52,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Aramark Facility Services, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "226 SOUTH MAIN ST #2",
+        "municipality": "PROVIDENCE",
+        "state": "RI",
+        "zip": "02903"
+      }
+    },
+    "contact": null,
+    "warn_date": "2023-08-18",
+    "layoff_date": "2023-07-31",
+    "type": "Closure",
+    "impacted": 211,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Aramark Facility Services, LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "226 SOUTH MAIN ST #2",
+        "municipality": "PROVIDENCE",
+        "state": "RI",
+        "zip": "02903"
+      }
+    },
+    "contact": null,
+    "warn_date": "2023-08-15",
+    "layoff_date": "2023-07-31",
+    "type": "Closure",
+    "impacted": 249,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Sodexo, Inc and Affiliates",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Smithfield",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "410 S MAIN ST 3RD FL",
+        "municipality": "PROVIDENCE",
+        "state": "RI",
+        "zip": "02906"
+      }
+    },
+    "contact": null,
+    "warn_date": "2023-07-05",
+    "layoff_date": "2023-06-09",
+    "type": "Closure",
+    "impacted": 169,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Northeast Transportation Services LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Smithfield",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "TEAMSTER LOCAL UNION 251 121 BRIGHTRIDGE AVE EAST",
+        "municipality": "PROVIDENCE",
+        "state": "RI",
+        "zip": "02914"
+      }
+    },
+    "contact": null,
+    "warn_date": "2023-06-30",
+    "layoff_date": "2023-03-25",
+    "type": "Closure",
+    "impacted": 75,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Monitronics International Inc (Brinks Home)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Dallas, Texas",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-05-17",
+    "layoff_date": "2023-03-05",
+    "type": "PermanentLayoff",
+    "impacted": 81,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "BayFirst Financial Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-01-23",
+    "layoff_date": "2022-11-25",
+    "type": "PermanentLayoff",
+    "impacted": 1,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Rubius Therapeutics",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Smithfield",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2023-01-04",
+    "layoff_date": "2022-11-15",
+    "type": "PermanentLayoff",
+    "impacted": 77,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Santander",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-09-23",
+    "layoff_date": "2022-04-08",
+    "type": "PermanentLayoff",
+    "impacted": 198,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Angelica",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Pawtucket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "121 BRIGHTRIDGE AVE",
+        "municipality": "PROVIDENCE",
+        "state": "RI",
+        "zip": "02914"
+      }
+    },
+    "contact": null,
+    "warn_date": "2022-09-13",
+    "layoff_date": "2021-07-17",
+    "type": "Closure",
+    "impacted": 94,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Honeywell",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Smithfield",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2022-02-03",
+    "layoff_date": "2021-07-26",
+    "type": "PermanentLayoff",
+    "impacted": 464,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Santander*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Rhode Island",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-05-18",
+    "layoff_date": "2020-09-30",
+    "type": "PermanentLayoff",
+    "impacted": 13,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Hotel Viking*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Newport",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2021-05-26",
+    "layoff_date": "2020-08-18",
+    "type": "PermanentLayoff",
+    "impacted": 40,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Providence Mariott*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-10-01",
+    "layoff_date": "2020-08-14",
+    "type": "PermanentLayoff",
+    "impacted": 106,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Omni Hotel & Resorts*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": null,
+        "municipality": null,
+        "state": "RI",
+        "zip": null
+      }
+    },
+    "contact": null,
+    "warn_date": "2020-08-21",
+    "layoff_date": "2020-03-24",
+    "type": "PermanentLayoff",
+    "impacted": 272,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Twin River - Lincoln*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": null,
+        "municipality": null,
+        "state": "RI",
+        "zip": null
+      }
+    },
+    "contact": null,
+    "warn_date": "2020-08-14",
+    "layoff_date": "2020-09-30",
+    "type": "PermanentLayoff",
+    "impacted": 1043,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Twin River - Tiverton*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": null,
+        "municipality": null,
+        "state": "RI",
+        "zip": null
+      }
+    },
+    "contact": null,
+    "warn_date": "2020-08-06",
+    "layoff_date": "2020-09-30",
+    "type": "PermanentLayoff",
+    "impacted": 296,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "RHD Rhode Island*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-08-11",
+    "layoff_date": "2020-09-01",
+    "type": "Closure",
+    "impacted": 73,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "McLaughlin & Moran, Inc*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cranston",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "TEAMSTER LOCAL UNION 251 121 BRIGHTRIDGE AVE EAST",
+        "municipality": "PROVIDENCE",
+        "state": "RI",
+        "zip": "02914"
+      }
+    },
+    "contact": null,
+    "warn_date": "2020-08-11",
+    "layoff_date": "2020-08-01",
+    "type": "Closure",
+    "impacted": 127,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "YMCA of Pawtucket *",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Multiple Locations",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-08-03",
+    "layoff_date": "2020-05-22",
+    "type": "PermanentLayoff",
+    "impacted": 71,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Upserve *",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-07-15",
+    "layoff_date": "2020-06-30",
+    "type": "PermanentLayoff",
+    "impacted": 65,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Newport Marriot *",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-06-22",
+    "layoff_date": "2020-03-14",
+    "type": "PermanentLayoff",
+    "impacted": 65,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "The Preservation Society of Newport County *",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Newport",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-06-30",
+    "layoff_date": "2020-05-29",
+    "type": "PermanentLayoff",
+    "impacted": 231,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Hotel Viking*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Newport",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-06-03",
+    "layoff_date": "2020-05-07",
+    "type": "PermanentLayoff",
+    "impacted": 72,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Bloomin Brands*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick, Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-05-29",
+    "layoff_date": "2020-03-16",
+    "type": "PermanentLayoff",
+    "impacted": 136,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Eastern Speciality/Check n GO*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "RI",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-08-20",
+    "layoff_date": "2020-04-21",
+    "type": "PermanentLayoff",
+    "impacted": 5,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "CB Chadwick-BaRoss*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-27",
+    "layoff_date": "2020-04-20",
+    "type": "PermanentLayoff",
+    "impacted": 1,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "FGX Int*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Smithfield",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-21",
+    "layoff_date": "2020-04-17",
+    "type": "PermanentLayoff",
+    "impacted": 13,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Massage Envy*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cranston",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-20",
+    "layoff_date": "2020-03-16",
+    "type": "PermanentLayoff",
+    "impacted": 51,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Moo*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-17",
+    "layoff_date": "2020-04-06",
+    "type": "PermanentLayoff",
+    "impacted": 110,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "The Vanderbuilt*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Newport",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-04-06",
+    "layoff_date": "2020-03-26",
+    "type": "PermanentLayoff",
+    "impacted": 37,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Highgate*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "LOCAL 26 1010 STATION LANDING",
+        "municipality": "4TH FL MEDFORD",
+        "state": "RI",
+        "zip": "02155"
+      }
+    },
+    "contact": null,
+    "warn_date": "2020-04-04",
+    "layoff_date": "2020-03-08",
+    "type": "PermanentLayoff",
+    "impacted": 146,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Greystone*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-26",
+    "layoff_date": "2020-03-20",
+    "type": "PermanentLayoff",
+    "impacted": 87,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "HM Host*",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-26",
+    "layoff_date": "2020-03-16",
+    "type": "PermanentLayoff",
+    "impacted": 110,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Spectrum Pharmaceuticals",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Portsmouth",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-20",
+    "layoff_date": "2019-04-12",
+    "type": "Closure",
+    "impacted": 1,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Tuition Management Systems",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2020-03-19",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": 59,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Agoda Travel Operations USA, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-02-13",
+    "layoff_date": "2019-03-18",
+    "type": "Closure",
+    "impacted": 62,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "DAL Global Services, LLC (DGS)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-01-21",
+    "layoff_date": "2018-01-31",
+    "type": "PermanentLayoff",
+    "impacted": 51,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Hooper Holmes, Inc. dba Provant Health",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2019-01-14",
+    "layoff_date": "2018-12-31",
+    "type": "Closure",
+    "impacted": 92,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Nordstrom Providence Place",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2018-11-01",
+    "layoff_date": "2019-01-04",
+    "type": "Closure",
+    "impacted": 181,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Matlet/Group",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Pawtucket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2108-11-01",
+    "layoff_date": "2018-10-09",
+    "type": "Closure",
+    "impacted": 180,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "United Builders Supply Co., Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Westerly",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2108-10-23",
+    "layoff_date": "2018-11-30",
+    "type": "Closure",
+    "impacted": 83,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Chase Corp dba Neptco",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Pawtucket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": null,
+        "municipality": null,
+        "state": "RI",
+        "zip": null
+      }
+    },
+    "contact": null,
+    "warn_date": "2018-10-09",
+    "layoff_date": "2018-08-27",
+    "type": "Closure",
+    "impacted": 64,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Pinnacle Logistics",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "North Kingstown",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2018-09-19",
+    "layoff_date": "2018-07-31",
+    "type": "Closure",
+    "impacted": 149,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Memorial Hospital of Rhode Island",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Pawtucket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": null,
+        "municipality": null,
+        "state": "RI",
+        "zip": null
+      }
+    },
+    "contact": null,
+    "warn_date": "2018-06-22",
+    "layoff_date": "2018-01-12",
+    "type": "Closure",
+    "impacted": 477,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Benny's",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Smithfield",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2018-06-01",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": 171,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Homemade Real Foods",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cumberland",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2017-11-03",
+    "layoff_date": "2016-05-02",
+    "type": "Closure",
+    "impacted": 187,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "First Student",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "North Scituate",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": null,
+        "municipality": null,
+        "state": "RI",
+        "zip": null
+      }
+    },
+    "contact": null,
+    "warn_date": "2017-09-08",
+    "layoff_date": "2016-06-30",
+    "type": "Closure",
+    "impacted": 20,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Aramark",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Smithfield",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-05-05",
+    "layoff_date": "2016-06-07",
+    "type": "PermanentLayoff",
+    "impacted": 154,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Optum",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-05-04",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": 60,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Sam's Club",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-04-08",
+    "layoff_date": "2016-02-05",
+    "type": "Closure",
+    "impacted": 131,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Blue Cross Blue Shield of RI",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-02-01",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": 241,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Fresenius Management Services, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2016-01-15",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": null,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Teespring, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-11-18",
+    "layoff_date": "2015-08-24",
+    "type": "PermanentLayoff",
+    "impacted": 70,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "United Airlines, Inc.'s Airport Operations Division",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "1771 COMMERCE DR",
+        "municipality": "STE 103 ELKGROVE VILLAGE",
+        "state": "RI",
+        "zip": "60007"
+      }
+    },
+    "contact": null,
+    "warn_date": "2015-11-10",
+    "layoff_date": "2015-05-17",
+    "type": "Closure",
+    "impacted": 543,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Honeywell",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cranston",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-06-23",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": 190100,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "IntegraMed Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence and Middletown",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-03-06",
+    "layoff_date": "2014-09-30",
+    "type": "PermanentLayoff",
+    "impacted": 5,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Cox Communications",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2015-02-27",
+    "layoff_date": "2014-08-31",
+    "type": "PermanentLayoff",
+    "impacted": 142,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Sodexo",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Smithfield",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "USAWR 90 PRINTERY ST",
+        "municipality": "PROVIDENCE",
+        "state": "RI",
+        "zip": null
+      }
+    },
+    "contact": null,
+    "warn_date": "2014-07-30",
+    "layoff_date": "2014-05-15",
+    "type": "Closure",
+    "impacted": 115,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Money Management International",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2014-06-30",
+    "layoff_date": "2014-01-15",
+    "type": "Closure",
+    "impacted": 49,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Dessert Services Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2014-03-26",
+    "layoff_date": "2013-11-30",
+    "type": "Closure",
+    "impacted": 1,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Landauef Metropolitan, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-11-15",
+    "layoff_date": "2013-10-08",
+    "type": "PermanentLayoff",
+    "impacted": 66,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Essential Salon Products Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cranston",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-09-30",
+    "layoff_date": "2013-05-31",
+    "type": "Closure",
+    "impacted": 3,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Sodexho Inc",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": null
+    },
+    "contact": null,
+    "warn_date": "2013-08-09",
+    "layoff_date": "2013-07-30",
+    "type": "Closure",
+    "impacted": 62,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "American Suzuki Motor Corporation",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Washington County",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-05-31",
+    "layoff_date": "2013-03-14",
+    "type": "Closure",
+    "impacted": null,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Portola Tech International Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cumberland",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2013-05-22",
+    "layoff_date": "2012-08-27",
+    "type": "Closure",
+    "impacted": 51,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Pawtuxet Village Care & Rehabilitation Center",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cranston",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "NORTH AMERICA AFL-CIO 410 SOUTH MAIN ST",
+        "municipality": "PROVIDENCE",
+        "state": "RI",
+        "zip": null
+      }
+    },
+    "contact": null,
+    "warn_date": "2013-01-11",
+    "layoff_date": "2012-06-11",
+    "type": "Closure",
+    "impacted": 150,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "John Crane, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Cranston",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "15 PIONEER AVE",
+        "municipality": "WARWICK",
+        "state": "RI",
+        "zip": "02888"
+      }
+    },
+    "contact": null,
+    "warn_date": "2012-06-27",
+    "layoff_date": "2012-04-01",
+    "type": "Closure",
+    "impacted": 70,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Lowe?s Home Center",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "North Kingstown",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2012-04-12",
+    "layoff_date": "2011-10-17",
+    "type": "Closure",
+    "impacted": 110,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "WSI",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Newport",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2012-01-30",
+    "layoff_date": "2011-10-30",
+    "type": "Closure",
+    "impacted": 16,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Lockheed Martin Corp - Global Training & Logistics",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Newport",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-10-17",
+    "layoff_date": "2011-09-30",
+    "type": "Closure",
+    "impacted": 9,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "BNY Mellon",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Pawtucket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-08-30",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": 98,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Flextronics Americas LLC",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "North Kingstown, Providence, Smithfield and Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-07-28",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": 21,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Bank of New York Mellon (BNY Mellon)",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Pawtucket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-07-29",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": 98,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Stanley Black & Decker",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Greenwich",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-05-25",
+    "layoff_date": "2011-04-11",
+    "type": "PermanentLayoff",
+    "impacted": 5,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Wal-Mart Stores, Inc. /Sam\u2019s Club",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-04-01",
+    "layoff_date": "2011-02-18",
+    "type": "PermanentLayoff",
+    "impacted": 122,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Bank of America",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-02-15",
+    "layoff_date": "2010-10-01",
+    "type": "PermanentLayoff",
+    "impacted": 89,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Stanley Works Nail Dept.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Greenwich",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2011-01-22",
+    "layoff_date": null,
+    "type": "PermanentLayoff",
+    "impacted": 26,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Stanley Works Nail Dept.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Greenwich",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-08-20",
+    "layoff_date": "2010-02-08",
+    "type": "PermanentLayoff",
+    "impacted": 165,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "The Ski Market",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-08-02",
+    "layoff_date": "2010-02-01",
+    "type": "Closure",
+    "impacted": 8,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Leviton Mfg",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2010-02-05",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": 66,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Liz Clayborne",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "NE JOINT BOARD LOCAL 324",
+        "municipality": "UNITE HERE",
+        "state": "RI",
+        "zip": null
+      }
+    },
+    "contact": null,
+    "warn_date": "2009-12-31",
+    "layoff_date": null,
+    "type": "Closure",
+    "impacted": 103,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Aramark",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-11-20",
+    "layoff_date": "2009-11-30",
+    "type": "PermanentLayoff",
+    "impacted": 6080,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "A.T. Cross",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-11-20",
+    "layoff_date": "2009-12-01",
+    "type": "PermanentLayoff",
+    "impacted": 63,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "A.T. Cross",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-10-08",
+    "layoff_date": "2009-03-23",
+    "type": "PermanentLayoff",
+    "impacted": 16,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Portola",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Woonsocket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-10-05",
+    "layoff_date": "2009-03-23",
+    "type": "Closure",
+    "impacted": 130,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Victoria & Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-08-21",
+    "layoff_date": "2009-07-07",
+    "type": "Closure",
+    "impacted": 26,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "A.T. Cross",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-07-13",
+    "layoff_date": "2009-03-23",
+    "type": "PermanentLayoff",
+    "impacted": 14,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "HGA Quest",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Nationwide - RI",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-07-13",
+    "layoff_date": "2009-08-16",
+    "type": "PermanentLayoff",
+    "impacted": 10,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Providence Public Library",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": {
+      "name": "Union",
+      "address": {
+        "street": "UNITED SERVICE & ALLIED WORKERS OF RI 90 PRINTERY ST",
+        "municipality": "PROVIDENCE",
+        "state": "RI",
+        "zip": "02904"
+      }
+    },
+    "contact": null,
+    "warn_date": "2009-07-01",
+    "layoff_date": "2009-06-30",
+    "type": "PermanentLayoff",
+    "impacted": 171,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "First Student",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Burrillville",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-06-16",
+    "layoff_date": "2009-06-30",
+    "type": "Closure",
+    "impacted": 55,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Honeywell",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Pawtucket",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-04-28",
+    "layoff_date": "2009-05-10",
+    "type": "Closure",
+    "impacted": 29,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Victoria & Company",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-04-15",
+    "layoff_date": "2009-05-08",
+    "type": "PermanentLayoff",
+    "impacted": 71,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "APC by Schneider Electric",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "West Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-03-11",
+    "layoff_date": "2009-05-02",
+    "type": "Closure",
+    "impacted": 54,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Leviton Mfg",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Warwick",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-03-09",
+    "layoff_date": "2009-05-10",
+    "type": "Closure",
+    "impacted": 119,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Colibri Group, Inc.",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "East Providence and Providence",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-03-04",
+    "layoff_date": "2009-01-15",
+    "type": "Closure",
+    "impacted": 270,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  },
+  {
+    "employer": {
+      "name": "Bank of America",
+      "address": null
+    },
+    "location": {
+      "street": null,
+      "municipality": "Lincoln",
+      "state": "RI",
+      "zip": null
+    },
+    "union": null,
+    "contact": null,
+    "warn_date": "2009-03-05",
+    "layoff_date": "2009-01-08",
+    "type": "PermanentLayoff",
+    "impacted": 121,
+    "notes": "Sheet: Previous Years",
+    "link": "https://dlt.ri.gov/media/15796/download?language=en"
+  }
+]

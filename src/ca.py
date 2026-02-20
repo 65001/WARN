@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 from playwright.sync_api import sync_playwright
 from src.models import WarnRecord, Employee, Address
-from src.utils import clean_impacted, derive_warn_type
+from src.utils import clean_impacted, derive_warn_type, parse_address
 
 def parse_date(val):
     if pd.isna(val) or val is None:
@@ -30,107 +30,7 @@ def get_col(row, aliases):
                 return row[k]
     return None
 
-def parse_address(address_str):
-    if not address_str or pd.isna(address_str):
-        return {"street": None, "municipality": None, "zip": None}
-    
-    addr = str(address_str).strip()
-    zip_code = None
-    state_part = None
-    city = None
-    street = None
-    
-    # Try to extract zip at the end
-    # "City CA 90210" or "City, CA 90210"
-    # Check last chunk
-    parts = addr.split(' ')
-    if len(parts) > 0:
-        last = parts[-1].strip()
-        # format 90210 or 90210-1234
-        if last.replace('-','').isdigit() and len(last) >= 5:
-            zip_code = last
-            # Remove zip from addr for further processing
-            addr = addr[:-len(last)].strip()
 
-    # Now look for " CA "
-    if ' CA ' in addr:
-        pre_ca, post_ca = addr.split(' CA ', 1)
-        pre_ca = pre_ca.strip()
-        # Post CA might have been just the zip, which we handled, or empty.
-        
-        # Now parse pre_ca for City
-        # Use our strategy from before to separate Street from City
-        if '  ' in pre_ca:
-            segments = pre_ca.split('  ')
-            # Assuming last segment is city, previous is street
-            # Filter empty
-            segments = [s.strip() for s in segments if s.strip()]
-            if len(segments) >= 2:
-                city = segments[-1]
-                street = " ".join(segments[:-1])
-            elif len(segments) == 1:
-                # Ambiguous, but maybe just city or just street?
-                # Usually if "  " matches, it splits them
-                pass 
-                
-        if not city:
-             # Try comma
-            if ',' in pre_ca:
-                segs = pre_ca.split(',')
-                city = segs[-1].strip()
-                street = ",".join(segs[:-1]).strip()
-                
-                # Cleanup common fragments from Street that might leak into city via comma
-                # (e.g. "123 Main St, Suite 100, City") -> City is fine
-                # But "123 Main St, City" -> City is fine
-        
-        if not city:
-             # Suffix fallback
-            suffixes = [
-                ' Blvd', ' St', ' Ave', ' Rd', ' Ln', ' Dr', ' Way', ' Pl', ' Ct', ' Ter', ' Cir', 
-                ' Hwy', ' Pkwy', ' Sq'
-            ]
-            for suffix in suffixes:
-                # Suffix with period
-                s_dot = suffix + '.'
-                if s_dot in pre_ca:
-                    parts = pre_ca.split(s_dot)
-                    if len(parts) > 1:
-                        street = parts[0].strip() + s_dot
-                        city = "".join(parts[1:]).strip(' ,')
-                        break
-                
-                # Suffix without period
-                if not city and suffix in pre_ca:
-                    parts = pre_ca.split(suffix)
-                    # Be careful not to match partial words, but we have leading space in suffix list
-                    if len(parts) > 1:
-                        # reconstruct street with suffix
-                        # "123 Main St City" -> split " St" -> ["123 Main", " City"]
-                        street = parts[0].strip() + suffix
-                        city = "".join(parts[1:]).strip(' ,')
-                        break
-    
-    # Fallbacks if strict parsing failed
-    if not city and not street and ',' in addr:
-        # "City, CA" (zip removed)
-        segs = addr.split(',')
-        if len(segs) >= 2:
-             # This assumes CA was handled or missing? 
-             # actually if we are here, ' CA ' wasn't found or failed
-             pass
-
-    # Clean up fields
-    if city:
-        # Check for numeric suite info leaking into city
-        # "Suite 100 City" -> split failed?
-        pass
-    
-    return {
-        "street": street,
-        "municipality": city,
-        "zip": zip_code
-    }
 
 def process_xlsx(url):
     print(f"Processing XLSX: {url}")
@@ -164,7 +64,7 @@ def process_xlsx(url):
             if not company or pd.isna(company):
                 continue
             
-            parsed = parse_address(address_str)
+            parsed = parse_address(address_str, state_fips='06')
             
             record = WarnRecord(
                 employer=Employee(name=str(company).strip()),
@@ -242,7 +142,7 @@ def process_pdf(url):
                     address_str = row[idx_map['address']] if 'address' in idx_map else None
                     city_str = row[idx_map['city']] if 'city' in idx_map else None
                     
-                    parsed = parse_address(address_str)
+                    parsed = parse_address(address_str, state_fips='06')
                     
                     # If city was explicit in table, override
                     if city_str:

@@ -6,3 +6,5 @@ The browser tool you have access to is not working. It is not opening any pages.
 Instead try using the playwright tool to open pages.
 
 You should use `uv` rather than `python` to run the scrappers, since the avoids dependency issues.
+
+You will run `uv` commands as follows: `$env:PYTHONPATH="."; uv run src/ri.py`, to run the scrapper for the state of `ri`.

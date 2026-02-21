@@ -121,3 +121,13 @@ The standardized data format follows this structure:
   "link": "https://..."
 }
 ```
+
+You can run all the scrapers by running:
+```ps
+$env:PYTHONPATH="."; uv run src/run_all.py
+```
+
+or run one scraper by running:
+```ps
+$env:PYTHONPATH="."; uv run src/ak.py
+```
